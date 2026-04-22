@@ -1,11 +1,11 @@
 c'est le read me et on test
 
 $$
-\Huge E = mc^2
+\Huge F = G \frac{m_1 m_2}{r^2}
 $$
 
-Albert Einstein - **Mass-Energy Equivalence** (1905)
+Isaac Newton - **Law of Universal Gravitation** (1687)
 
 > [!NOTE]
-> States that mass can be converted into energy and vice versa, forming the basis of nuclear physics. [Read more](https://en.wikipedia.org/wiki/Mass%E2%80%93energy_equivalence)
+> Describes the attractive force between two bodies with mass, explaining both falling apples and planetary orbits. [Read more](https://en.wikipedia.org/wiki/Newton%27s_law_of_universal_gravitation)
 
