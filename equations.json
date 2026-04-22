@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Euler's Identity",
+    "author": "Leonhard Euler",
+    "year": 1748,
+    "description": "Considered the most beautiful equation in mathematics, it connects five fundamental constants.",
+    "latex": "e^{i\\pi} + 1 = 0",
+    "url": "https://en.wikipedia.org/wiki/Euler%27s_identity"
+  },
+  {
+    "name": "Mass-Energy Equivalence",
+    "author": "Albert Einstein",
+    "year": 1905,
+    "description": "States that mass can be converted into energy and vice versa, forming the basis of nuclear physics.",
+    "latex": "E = mc^2",
+    "url": "https://en.wikipedia.org/wiki/Mass%E2%80%93energy_equivalence"
+  },
+  {
+    "name": "Law of Universal Gravitation",
+    "author": "Isaac Newton",
+    "year": 1687,
+    "description": "Describes the attractive force between two bodies with mass, explaining both falling apples and planetary orbits.",
+    "latex": "F = G \\frac{m_1 m_2}{r^2}",
+    "url": "https://en.wikipedia.org/wiki/Newton%27s_law_of_universal_gravitation"
+  }
+]
