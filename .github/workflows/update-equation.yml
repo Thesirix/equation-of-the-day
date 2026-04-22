@@ -19,7 +19,7 @@ jobs:
 
       - name: Lancer ton script
         run: |
-          main.py
+          python main.py
 
       - name: Enregistrer les changements
         run: |
