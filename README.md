@@ -1,8 +1,16 @@
+<div align="center">
+
 # Equation of the Day
 
-> Showcase a beautiful math equation every day directly on your GitHub profile README — with its name, creator, and purpose. Perfect for students, scientists, and math enthusiasts.
+**A new mathematical equation appears on your GitHub profile every single day.**
+Name, author, year, and purpose. Automatically. No manual work.
 
----
+[![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat-square&logo=python)](https://python.org)
+[![GitHub Actions](https://img.shields.io/badge/Automation-GitHub_Actions-black?style=flat-square&logo=githubactions)](https://github.com/features/actions)
+[![LaTeX](https://img.shields.io/badge/Format-LaTeX-orange?style=flat-square)](https://www.latex-project.org/)
+[![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
+
+</div>
 
 ## Equation of the Day
 
@@ -15,35 +23,17 @@ Rudolf Clausius & Émile Clapeyron - **Clausius-Clapeyron Equation** (1834)
 > [!NOTE]
 > Characterizes a discontinuous phase transition between two phases of matter of a single constituent. [Read more](https://en.wikipedia.org/wiki/Clausius%E2%80%93Clapeyron_relation)
 
----
-
 ## How it works
 
-This project automatically updates your GitHub README with a new mathematical equation every day. Here is the full pipeline:
+The project has three layers:
 
-### 1. `equations.json` — The equation database
-
-All equations are stored in a single JSON file. Each entry follows this structure:
-
-```json
-{
-  "name": "Equation Name",
-  "author": "Mathematician Name",
-  "year": 1900,
-  "description": "What the equation means and where it is used.",
-  "latex": "\\LaTeX source code",
-  "url": "https://link-to-wikipedia-or-source"
-}
+```
+equations.json        database of all equations
+main.py               picks one at random, renders it, writes README.md
+README.template.md    static skeleton with a {{DAILY_EQUATION}} placeholder
 ```
 
-### 2. `main.py` — The generation script
-
-The script does four things:
-
-1. Loads `equations.json`
-2. Picks a **random equation** from the list
-3. Renders it as a Markdown block with the LaTeX formula, author, name, year, description, and a link
-4. Injects the result into `README.template.md` by replacing the `{{DAILY_EQUATION}}` placeholder, and writes the output to `README.md`
+Every day at midnight UTC, GitHub Actions runs `main.py`. The script loads `equations.json`, picks a random entry, formats it as a Markdown block, replaces `{{DAILY_EQUATION}}` in the template, and commits the result to `README.md`.
 
 The rendered block looks like this:
 
@@ -58,28 +48,20 @@ $$
 > <Description> [Read more](<URL>)
 ```
 
-### 3. `README.template.md` — The template
+## Equation format
 
-This file is the skeleton of the README. It contains static content (like this description) and the `{{DAILY_EQUATION}}` placeholder where the daily equation is injected. **Never edit `README.md` directly** — it is overwritten every day. Edit `README.template.md` instead.
+Each entry in `equations.json` follows this structure:
 
-### 4. `.github/workflows/update-equation.yml` — The automation
-
-A GitHub Actions workflow runs the pipeline automatically:
-
-| Trigger | When |
-|---|---|
-| Scheduled (`cron`) | Every day at **00:00 UTC** |
-| `workflow_dispatch` | Manually, from the GitHub Actions tab |
-
-The workflow:
-1. Checks out the repository
-2. Sets up Python 3
-3. Runs `main.py`
-4. Commits and pushes the updated `README.md` with the message `"Mise à jour de l'équation du jour"`
-
-The workflow uses `permissions: contents: write` to allow the bot to push directly to the repository.
-
----
+```json
+{
+  "name": "Equation Name",
+  "author": "Mathematician Name",
+  "year": 1900,
+  "description": "What the equation means and where it is used.",
+  "latex": "\\LaTeX source code",
+  "url": "https://en.wikipedia.org/wiki/..."
+}
+```
 
 ## Project structure
 
@@ -87,28 +69,34 @@ The workflow uses `permissions: contents: write` to allow the bot to push direct
 equation-of-the-day/
 ├── .github/
 │   └── workflows/
-│       └── update-equation.yml   # GitHub Actions automation
-├── equations.json                # Database of all equations
-├── main.py                       # Generation script
-├── README.template.md            # Source template (edit this)
-└── README.md                     # Auto-generated output (do not edit)
+│       └── update-equation.yml
+├── equations.json
+├── main.py
+├── README.template.md
+└── README.md
 ```
 
----
+## Workflow
 
-## Setup — use this on your own profile
+The GitHub Actions workflow triggers in two ways:
 
-1. **Fork** this repository
-2. In your GitHub profile repository (`<username>/<username>`), add a daily trigger that calls this workflow — or copy the files directly into your profile repo
-3. Make sure the workflow has **write permissions** (`Settings > Actions > General > Workflow permissions > Read and write`)
-4. Trigger the workflow manually once (`Actions > Daily Equation Update > Run workflow`) to generate the first README
-5. From then on, a new equation appears every day at midnight UTC
+| Trigger | When |
+|---|---|
+| Scheduled | Every day at 00:00 UTC |
+| `workflow_dispatch` | Manually from the Actions tab |
 
----
+It checks out the repo, runs `main.py`, then commits and pushes `README.md`. The workflow requires `permissions: contents: write` to push without a personal token.
+
+## Setup on your own profile
+
+1. Fork this repository
+2. Go to `Settings > Actions > General > Workflow permissions` and enable **Read and write**
+3. Trigger the workflow once manually from the **Actions** tab to generate the first README
+4. From then on, a new equation appears every day automatically
 
 ## Add your own equations
 
-Open `equations.json` and add a new object to the array:
+Open `equations.json` and append a new object to the array:
 
 ```json
 {
@@ -121,17 +109,13 @@ Open `equations.json` and add a new object to the array:
 }
 ```
 
-Use [LaTeX math syntax](https://en.wikibooks.org/wiki/LaTeX/Mathematics). The formula is rendered with `\large` sizing inside a `$$` display block.
+Use standard [LaTeX math syntax](https://en.wikibooks.org/wiki/LaTeX/Mathematics). The formula is wrapped in `\large` and rendered inside a `$$` display block, which GitHub renders natively.
 
----
+## Requirements
 
-## Tech stack
+- Python 3.x (no third-party packages)
+- A GitHub repository with Actions enabled
 
-- **Python 3** — script logic
-- **GitHub Actions** — scheduling and automation
-- **LaTeX / MathJax** — equation rendering in Markdown
-- **GitHub Markdown** — `> [!NOTE]` callout blocks
+## License
 
----
-
-*Generated automatically — do not edit `README.md` directly.*
+MIT. Do whatever you want, a star is always appreciated ⭐
