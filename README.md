@@ -138,4 +138,6 @@ Use standard [LaTeX math syntax](https://en.wikibooks.org/wiki/LaTeX/Mathematics
 ## License
 
 MIT. Do whatever you want, a star is always appreciated ⭐ and feel free to add new equations!
+
+
 $$
