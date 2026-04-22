@@ -30,35 +30,16 @@ The project has three layers:
 ```
 equations.json        database of all equations
 main.py               picks one at random, renders it, writes README.md
-README.template.md    static skeleton with a $$
-\large q_e q_m = \frac{n h}{2}
-$$
-
-Paul Dirac - **Dirac Quantization Condition** (1931)
-
-> [!NOTE]
-> States that the mere existence of a single magnetic monopole anywhere in the universe would imply that all electric charge is quantized. [Read more](https://en.wikipedia.org/wiki/Magnetic_monopole)
- placeholder
+README.template.md    static skeleton with a DAILY_EQUATION placeholder
 ```
 
-Every day at midnight UTC, GitHub Actions runs `main.py`. The script loads `equations.json`, picks a random entry, formats it as a Markdown block, replaces `$$
-\large q_e q_m = \frac{n h}{2}
-
-$$
-
-Paul Dirac - **Dirac Quantization Condition** (1931)
-
-> [!NOTE]
-> States that the mere existence of a single magnetic monopole anywhere in the universe would imply that all electric charge is quantized. [Read more](https://en.wikipedia.org/wiki/Magnetic_monopole)
-` in the template, and commits the result to `README.md`.
+Every day at midnight UTC, GitHub Actions runs `main.py`. The script loads `equations.json`, picks a random entry, formats it as a Markdown block, injects it into the template placeholder, and commits the result to `README.md`.
 
 The rendered block looks like this:
 
 ```
 $$
-
 \large <latex>
-
 $$
 
 <Author> - **<Name>** (<Year>)
@@ -99,9 +80,9 @@ equation-of-the-day/
 
 The GitHub Actions workflow triggers in two ways:
 
-| Trigger | When |
-|---|---|
-| Scheduled | Every day at 00:00 UTC |
+| Trigger             | When                          |
+| ------------------- | ----------------------------- |
+| Scheduled           | Every day at 00:00 UTC        |
 | `workflow_dispatch` | Manually from the Actions tab |
 
 It checks out the repo, runs `main.py`, then commits and pushes `README.md`. The workflow requires `permissions: contents: write` to push without a personal token.
@@ -138,6 +119,3 @@ Use standard [LaTeX math syntax](https://en.wikibooks.org/wiki/LaTeX/Mathematics
 ## License
 
 MIT. Do whatever you want, a star is always appreciated ⭐ and feel free to add new equations!
-
-
-$$

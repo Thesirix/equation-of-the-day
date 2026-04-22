@@ -23,10 +23,10 @@ The project has three layers:
 ```
 equations.json        database of all equations
 main.py               picks one at random, renders it, writes README.md
-README.template.md    static skeleton with a {{DAILY_EQUATION}} placeholder
+README.template.md    static skeleton with a DAILY_EQUATION placeholder
 ```
 
-Every day at midnight UTC, GitHub Actions runs `main.py`. The script loads `equations.json`, picks a random entry, formats it as a Markdown block, replaces `{{DAILY_EQUATION}}` in the template, and commits the result to `README.md`.
+Every day at midnight UTC, GitHub Actions runs `main.py`. The script loads `equations.json`, picks a random entry, formats it as a Markdown block, injects it into the template placeholder, and commits the result to `README.md`.
 
 The rendered block looks like this:
 
