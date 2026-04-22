@@ -1,7 +1,7 @@
 c'est le read me et on test
 
 $$
-F = G \frac{m_1 m_2}{r^2}
+\Huge F = G \frac{m_1 m_2}{r^2}
 $$
 
 Isaac Newton - **Law of Universal Gravitation** (1687)
