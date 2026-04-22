@@ -1,7 +1,7 @@
 c'est le read me et on test
 
 $$
-\Large E = mc^2
+\large E = mc^2
 $$
 
 Albert Einstein - **Mass-Energy Equivalence** (1905)
