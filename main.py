@@ -17,6 +17,7 @@ $$
 
 > [!NOTE]
 > {daily_equation['description']} [Read more]({daily_equation['url']})
+
 """
 
 # 2. Read the template
