@@ -15,13 +15,14 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large \frac{dP}{dT} = \frac{L}{T \Delta V}
+\large q_e q_m = \frac{n h}{2}
 $$
 
-Rudolf Clausius & Émile Clapeyron - **Clausius-Clapeyron Equation** (1834)
+Paul Dirac - **Dirac Quantization Condition** (1931)
 
 > [!NOTE]
-> Characterizes a discontinuous phase transition between two phases of matter of a single constituent. [Read more](https://en.wikipedia.org/wiki/Clausius%E2%80%93Clapeyron_relation)
+> States that the mere existence of a single magnetic monopole anywhere in the universe would imply that all electric charge is quantized. [Read more](https://en.wikipedia.org/wiki/Magnetic_monopole)
+
 
 ## How it works
 
@@ -30,10 +31,26 @@ The project has three layers:
 ```
 equations.json        database of all equations
 main.py               picks one at random, renders it, writes README.md
-README.template.md    static skeleton with a {{DAILY_EQUATION}} placeholder
+README.template.md    static skeleton with a $$
+\large q_e q_m = \frac{n h}{2}
+$$
+
+Paul Dirac - **Dirac Quantization Condition** (1931)
+
+> [!NOTE]
+> States that the mere existence of a single magnetic monopole anywhere in the universe would imply that all electric charge is quantized. [Read more](https://en.wikipedia.org/wiki/Magnetic_monopole)
+ placeholder
 ```
 
-Every day at midnight UTC, GitHub Actions runs `main.py`. The script loads `equations.json`, picks a random entry, formats it as a Markdown block, replaces `{{DAILY_EQUATION}}` in the template, and commits the result to `README.md`.
+Every day at midnight UTC, GitHub Actions runs `main.py`. The script loads `equations.json`, picks a random entry, formats it as a Markdown block, replaces `$$
+\large q_e q_m = \frac{n h}{2}
+$$
+
+Paul Dirac - **Dirac Quantization Condition** (1931)
+
+> [!NOTE]
+> States that the mere existence of a single magnetic monopole anywhere in the universe would imply that all electric charge is quantized. [Read more](https://en.wikipedia.org/wiki/Magnetic_monopole)
+` in the template, and commits the result to `README.md`.
 
 The rendered block looks like this:
 
