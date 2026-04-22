@@ -1,12 +1,11 @@
 c'est le read me et on test
 
-
-### Mass-Energy Equivalence (1905)
-*Albert Einstein* - [Read more](https://en.wikipedia.org/wiki/Mass%E2%80%93energy_equivalence)
-
-> States that mass can be converted into energy and vice versa, forming the basis of nuclear physics.
-
 $$
-E = mc^2
+F = G \frac{m_1 m_2}{r^2}
 $$
+
+Isaac Newton - **Law of Universal Gravitation** (1687)
+
+> [!NOTE]
+> Describes the attractive force between two bodies with mass, explaining both falling apples and planetary orbits. [Read more](https://en.wikipedia.org/wiki/Newton%27s_law_of_universal_gravitation)
 
