@@ -1,11 +1,11 @@
 c'est le read me et on test
 
 $$
-\Huge F = G \frac{m_1 m_2}{r^2}
+\\LARGE e^{i\pi} + 1 = 0
 $$
 
-Isaac Newton - **Law of Universal Gravitation** (1687)
+Leonhard Euler - **Euler's Identity** (1748)
 
 > [!NOTE]
-> Describes the attractive force between two bodies with mass, explaining both falling apples and planetary orbits. [Read more](https://en.wikipedia.org/wiki/Newton%27s_law_of_universal_gravitation)
+> Considered the most beautiful equation in mathematics, it connects five fundamental constants. [Read more](https://en.wikipedia.org/wiki/Euler%27s_identity)
 
