@@ -19,7 +19,7 @@ jobs:
 
       - name: Lancer ton script
         run: |
-          python ton_script_equation.py
+          main.py
 
       - name: Enregistrer les changements
         run: |
