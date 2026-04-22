@@ -8,6 +8,12 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+
+    # --- LA LIGNE MAGIQUE EST ICI ---
+    permissions:
+      contents: write
+    # --------------------------------
+
     steps:
       - name: Récupérer le code du projet
         uses: actions/checkout@v4
