@@ -73,9 +73,9 @@ equation-of-the-day/
 
 The GitHub Actions workflow triggers in two ways:
 
-| Trigger | When |
-|---|---|
-| Scheduled | Every day at 00:00 UTC |
+| Trigger             | When                          |
+| ------------------- | ----------------------------- |
+| Scheduled           | Every day at 00:00 UTC        |
 | `workflow_dispatch` | Manually from the Actions tab |
 
 It checks out the repo, runs `main.py`, then commits and pushes `README.md`. The workflow requires `permissions: contents: write` to push without a personal token.
@@ -111,4 +111,4 @@ Use standard [LaTeX math syntax](https://en.wikibooks.org/wiki/LaTeX/Mathematics
 
 ## License
 
-MIT. Do whatever you want, a star is always appreciated ⭐
+MIT. Do whatever you want, a star is always appreciated ⭐ and feel free to add new equations!

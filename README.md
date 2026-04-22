@@ -23,7 +23,6 @@ Paul Dirac - **Dirac Quantization Condition** (1931)
 > [!NOTE]
 > States that the mere existence of a single magnetic monopole anywhere in the universe would imply that all electric charge is quantized. [Read more](https://en.wikipedia.org/wiki/Magnetic_monopole)
 
-
 ## How it works
 
 The project has three layers:
@@ -44,6 +43,7 @@ Paul Dirac - **Dirac Quantization Condition** (1931)
 
 Every day at midnight UTC, GitHub Actions runs `main.py`. The script loads `equations.json`, picks a random entry, formats it as a Markdown block, replaces `$$
 \large q_e q_m = \frac{n h}{2}
+
 $$
 
 Paul Dirac - **Dirac Quantization Condition** (1931)
@@ -56,7 +56,9 @@ The rendered block looks like this:
 
 ```
 $$
+
 \large <latex>
+
 $$
 
 <Author> - **<Name>** (<Year>)
@@ -135,4 +137,5 @@ Use standard [LaTeX math syntax](https://en.wikibooks.org/wiki/LaTeX/Mathematics
 
 ## License
 
-MIT. Do whatever you want, a star is always appreciated ⭐
+MIT. Do whatever you want, a star is always appreciated ⭐ and feel free to add new equations!
+$$
