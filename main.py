@@ -9,15 +9,14 @@ with open('equations.json', 'r', encoding='utf-8') as f:
 daily_equation = random.choice(equations)
 
 # Prepare the Markdown/LaTeX block to inject
-latex_block = f"""
-### {daily_equation['name']} ({daily_equation['year']})
-*{daily_equation['author']}* - [Read more]({daily_equation['url']})
-
-> {daily_equation['description']}
-
-$$
+latex_block = f"""$$
 {daily_equation['latex']}
 $$
+
+{daily_equation['author']} - **{daily_equation['name']}** ({daily_equation['year']})
+
+> [!NOTE]
+> {daily_equation['description']} [Read more]({daily_equation['url']})
 """
 
 # 2. Read the template
