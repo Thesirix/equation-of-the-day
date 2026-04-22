@@ -1,11 +1,11 @@
 c'est le read me et on test
 
 $$
-\large F = G \frac{m_1 m_2}{r^2}
+\large \frac{dP}{dT} = \frac{L}{T \Delta V}
 $$
 
-Isaac Newton - **Law of Universal Gravitation** (1687)
+Rudolf Clausius & Émile Clapeyron - **Clausius-Clapeyron Equation** (1834)
 
 > [!NOTE]
-> Describes the attractive force between two bodies with mass, explaining both falling apples and planetary orbits. [Read more](https://en.wikipedia.org/wiki/Newton%27s_law_of_universal_gravitation)
+> Characterizes a discontinuous phase transition between two phases of matter of a single constituent. [Read more](https://en.wikipedia.org/wiki/Clausius%E2%80%93Clapeyron_relation)
 
