@@ -10,7 +10,7 @@ daily_equation = random.choice(equations)
 
 # Prepare the Markdown/LaTeX block to inject
 latex_block = f"""$$
-\\Huge {daily_equation['latex']}
+\\\LARGE {daily_equation['latex']}
 $$
 
 {daily_equation['author']} - **{daily_equation['name']}** ({daily_equation['year']})
