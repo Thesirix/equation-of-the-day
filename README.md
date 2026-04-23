@@ -106,20 +106,14 @@ If you want the full project (equation database, `main.py`, template):
 
 If you already have a profile README (or any other repo) and just want to inject a daily equation into it, without forking anything:
 
-**Step 1** - Add a placeholder in your `README.md` where you want the equation to appear:
+**Step 1** - Add the following markers in your `README.md` where you want the equation to appear:
 
 ```md
-$$
-\large f(n) = g(n) + h(n)
-$$
-
-Peter Hart, Nils Nilsson & Bertram Raphael - **A* Search Algorithm** (1968)
-
-> [!NOTE]
-> A computer algorithm that is widely used in pathfinding and graph traversal, utilizing a heuristic function. [Read more](https://en.wikipedia.org/wiki/A*_search_algorithm)
-
-
+<!-- EQUATION_START -->
+<!-- EQUATION_END -->
 ```
+
+The workflow will inject the equation between these two markers every day. The markers stay in the file permanently so the equation can be updated without any rebuild.
 
 **Step 2** - Create `.github/workflows/equation.yml` in your repo with the following workflow:
 
@@ -149,7 +143,7 @@ jobs:
       - name: Inject daily equation
         run: |
           python3 << 'EOF'
-          import json, random
+          import json, random, re
 
           with open('_equation_src/equations.json', 'r', encoding='utf-8') as f:
               equations = json.load(f)
@@ -166,20 +160,21 @@ jobs:
               + "> " + eq['description'] + " [Read more](" + eq['url'] + ")\n"
           )
 
+          START = '<!-- EQUATION_START -->'
+          END   = '<!-- EQUATION_END -->'
+
           with open('README.md', 'r', encoding='utf-8') as f:
               readme = f.read()
 
+          updated = re.sub(
+              re.escape(START) + r'.*?' + re.escape(END),
+              START + '\n' + block + END,
+              readme,
+              flags=re.DOTALL,
+          )
+
           with open('README.md', 'w', encoding='utf-8') as f:
-              f.write(readme.replace('$$
-\large f(n) = g(n) + h(n)
-$$
-
-Peter Hart, Nils Nilsson & Bertram Raphael - **A* Search Algorithm** (1968)
-
-> [!NOTE]
-> A computer algorithm that is widely used in pathfinding and graph traversal, utilizing a heuristic function. [Read more](https://en.wikipedia.org/wiki/A*_search_algorithm)
-
-', block))
+              f.write(updated)
           EOF
 
       - name: Commit & push
