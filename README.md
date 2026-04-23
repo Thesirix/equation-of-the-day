@@ -15,13 +15,15 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large q_e q_m = \frac{n h}{2}
+\large f(n) = g(n) + h(n)
 $$
 
-Paul Dirac - **Dirac Quantization Condition** (1931)
+Peter Hart, Nils Nilsson & Bertram Raphael - **A* Search Algorithm** (1968)
 
 > [!NOTE]
-> States that the mere existence of a single magnetic monopole anywhere in the universe would imply that all electric charge is quantized. [Read more](https://en.wikipedia.org/wiki/Magnetic_monopole)
+> A computer algorithm that is widely used in pathfinding and graph traversal, utilizing a heuristic function. [Read more](https://en.wikipedia.org/wiki/A*_search_algorithm)
+
+
 
 ## How it works
 
@@ -107,7 +109,16 @@ If you already have a profile README (or any other repo) and just want to inject
 **Step 1** - Add a placeholder in your `README.md` where you want the equation to appear:
 
 ```md
-{{DAILY_EQUATION}}
+$$
+\large f(n) = g(n) + h(n)
+$$
+
+Peter Hart, Nils Nilsson & Bertram Raphael - **A* Search Algorithm** (1968)
+
+> [!NOTE]
+> A computer algorithm that is widely used in pathfinding and graph traversal, utilizing a heuristic function. [Read more](https://en.wikipedia.org/wiki/A*_search_algorithm)
+
+
 ```
 
 **Step 2** - Create `.github/workflows/equation.yml` in your repo with the following workflow:
@@ -159,7 +170,16 @@ jobs:
               readme = f.read()
 
           with open('README.md', 'w', encoding='utf-8') as f:
-              f.write(readme.replace('{{DAILY_EQUATION}}', block))
+              f.write(readme.replace('$$
+\large f(n) = g(n) + h(n)
+$$
+
+Peter Hart, Nils Nilsson & Bertram Raphael - **A* Search Algorithm** (1968)
+
+> [!NOTE]
+> A computer algorithm that is widely used in pathfinding and graph traversal, utilizing a heuristic function. [Read more](https://en.wikipedia.org/wiki/A*_search_algorithm)
+
+', block))
           EOF
 
       - name: Commit & push
