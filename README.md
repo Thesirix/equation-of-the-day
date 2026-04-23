@@ -18,12 +18,10 @@ $$
 \large f(n) = g(n) + h(n)
 $$
 
-Peter Hart, Nils Nilsson & Bertram Raphael - **A* Search Algorithm** (1968)
+Peter Hart, Nils Nilsson & Bertram Raphael - **A\* Search Algorithm** (1968)
 
 > [!NOTE]
 > A computer algorithm that is widely used in pathfinding and graph traversal, utilizing a heuristic function. [Read more](https://en.wikipedia.org/wiki/A*_search_algorithm)
-
-
 
 ## How it works
 
