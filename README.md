@@ -15,13 +15,15 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large f(n) = g(n) + h(n)
+\large \begin{pmatrix} \nu_e \\ \nu_\mu \\ \nu_\tau \end{pmatrix} = U_{\text{PMNS}} \begin{pmatrix} \nu_1 \\ \nu_2 \\ \nu_3 \end{pmatrix}
 $$
 
-Peter Hart, Nils Nilsson & Bertram Raphael - **A\* Search Algorithm** (1968)
+Bruno Pontecorvo, Maki, Nakagawa, & Sakata - **PMNS Matrix (Neutrino Mixing)** (1962)
 
 > [!NOTE]
-> A computer algorithm that is widely used in pathfinding and graph traversal, utilizing a heuristic function. [Read more](https://en.wikipedia.org/wiki/A*_search_algorithm)
+> A unitary mixing matrix which contains information on the mismatch between quantum states of neutrinos when they are created and when they interact. [Read more](https://en.wikipedia.org/wiki/Pontecorvo%E2%80%93Maki%E2%80%93Nakagawa%E2%80%93Sakata_matrix)
+
+
 
 ## How it works
 
@@ -111,7 +113,7 @@ If you already have a profile README (or any other repo) and just want to inject
 <!-- EQUATION_END -->
 ```
 
-The workflow will inject the equation between these two markers every day. The markers stay in the file permanently so the equation can be updated without any rebuild.
+The workflow injects the equation between these markers every day. The markers stay permanently so the equation updates without any rebuild.
 
 **Step 2** - Create `.github/workflows/equation.yml` in your repo with the following workflow:
 
