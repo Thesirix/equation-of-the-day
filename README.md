@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large \begin{pmatrix} \nu_e \\ \nu_\mu \\ \nu_\tau \end{pmatrix} = U_{\text{PMNS}} \begin{pmatrix} \nu_1 \\ \nu_2 \\ \nu_3 \end{pmatrix}
+\large \text{ind}(D) = \int_M \text{ch}(V) \text{Td}(M)
 $$
 
-Bruno Pontecorvo, Maki, Nakagawa, & Sakata - **PMNS Matrix (Neutrino Mixing)** (1962)
+Michael Atiyah & Isadore Singer - **Atiyah-Singer Index Theorem** (1963)
 
 > [!NOTE]
-> A unitary mixing matrix which contains information on the mismatch between quantum states of neutrinos when they are created and when they interact. [Read more](https://en.wikipedia.org/wiki/Pontecorvo%E2%80%93Maki%E2%80%93Nakagawa%E2%80%93Sakata_matrix)
+> A massive achievement in differential geometry bridging topology and analysis, calculating the analytical index of an elliptic differential operator. [Read more](https://en.wikipedia.org/wiki/Atiyah%E2%80%93Singer_index_theorem)
 
 
 
