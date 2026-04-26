@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large \text{ind}(D) = \int_M \text{ch}(V) \text{Td}(M)
+\large r_s = \frac{2GM}{c^2}
 $$
 
-Michael Atiyah & Isadore Singer - **Atiyah-Singer Index Theorem** (1963)
+Karl Schwarzschild - **Schwarzschild Radius** (1916)
 
 > [!NOTE]
-> A massive achievement in differential geometry bridging topology and analysis, calculating the analytical index of an elliptic differential operator. [Read more](https://en.wikipedia.org/wiki/Atiyah%E2%80%93Singer_index_theorem)
+> The radius of a sphere such that, if all the mass of an object were to be compressed within that sphere, the escape velocity would equal the speed of light. [Read more](https://en.wikipedia.org/wiki/Schwarzschild_radius)
 
 
 
