@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large r_s = \frac{2GM}{c^2}
+\large 2 n d \cos(\theta_2) = m \lambda
 $$
 
-Karl Schwarzschild - **Schwarzschild Radius** (1916)
+Thomas Young - **Thin Film Interference (Constructive)** (1801)
 
 > [!NOTE]
-> The radius of a sphere such that, if all the mass of an object were to be compressed within that sphere, the escape velocity would equal the speed of light. [Read more](https://en.wikipedia.org/wiki/Schwarzschild_radius)
+> Determines the condition for constructive interference of light waves reflecting off the upper and lower boundaries of a thin film. [Read more](https://en.wikipedia.org/wiki/Thin-film_interference)
 
 
 
