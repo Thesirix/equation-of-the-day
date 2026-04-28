@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large 2 n d \cos(\theta_2) = m \lambda
+\large E = E^0 - \frac{RT}{zF} \ln Q
 $$
 
-Thomas Young - **Thin Film Interference (Constructive)** (1801)
+Walther Nernst - **Nernst Equation** (1889)
 
 > [!NOTE]
-> Determines the condition for constructive interference of light waves reflecting off the upper and lower boundaries of a thin film. [Read more](https://en.wikipedia.org/wiki/Thin-film_interference)
+> Relates the reduction potential of an electrochemical reaction to the standard electrode potential, temperature, and activities of the chemical species. [Read more](https://en.wikipedia.org/wiki/Nernst_equation)
 
 
 
