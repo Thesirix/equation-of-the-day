@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large E = E^0 - \frac{RT}{zF} \ln Q
+\large M = a + b Y + c \left( I(I+1) - \frac{Y^2}{4} \right)
 $$
 
-Walther Nernst - **Nernst Equation** (1889)
+Murray Gell-Mann & Susumu Okubo - **Gell-Mann-Okubo Mass Formula** (1962)
 
 > [!NOTE]
-> Relates the reduction potential of an electrochemical reaction to the standard electrode potential, temperature, and activities of the chemical species. [Read more](https://en.wikipedia.org/wiki/Nernst_equation)
+> An empirical formula relating the masses of members of a given SU(3) multiplet of hadrons. [Read more](https://en.wikipedia.org/wiki/Gell-Mann%E2%80%93Okubo_mass_formula)
 
 
 
