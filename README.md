@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large M = a + b Y + c \left( I(I+1) - \frac{Y^2}{4} \right)
+\large M = \frac{v}{c}
 $$
 
-Murray Gell-Mann & Susumu Okubo - **Gell-Mann-Okubo Mass Formula** (1962)
+Ernst Mach - **Mach Number** (1887)
 
 > [!NOTE]
-> An empirical formula relating the masses of members of a given SU(3) multiplet of hadrons. [Read more](https://en.wikipedia.org/wiki/Gell-Mann%E2%80%93Okubo_mass_formula)
+> A dimensionless quantity representing the ratio of flow velocity past a boundary to the local speed of sound. [Read more](https://en.wikipedia.org/wiki/Mach_number)
 
 
 
