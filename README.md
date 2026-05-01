@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large M = \frac{v}{c}
+\large \sum_{k=1}^n I_k = 0
 $$
 
-Ernst Mach - **Mach Number** (1887)
+Gustav Kirchhoff - **Kirchhoff's Current Law** (1845)
 
 > [!NOTE]
-> A dimensionless quantity representing the ratio of flow velocity past a boundary to the local speed of sound. [Read more](https://en.wikipedia.org/wiki/Mach_number)
+> States that the algebraic sum of currents in a network of conductors meeting at a point is zero. [Read more](https://en.wikipedia.org/wiki/Kirchhoff%27s_circuit_laws)
 
 
 
