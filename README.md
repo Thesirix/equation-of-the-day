@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large \sum_{k=1}^n I_k = 0
+\large \mathbf{a}_i \cdot \Delta \mathbf{k} = 2\pi v_i
 $$
 
-Gustav Kirchhoff - **Kirchhoff's Current Law** (1845)
+Max von Laue - **Laue Equations** (1912)
 
 > [!NOTE]
-> States that the algebraic sum of currents in a network of conductors meeting at a point is zero. [Read more](https://en.wikipedia.org/wiki/Kirchhoff%27s_circuit_laws)
+> A set of three equations for the scattering of waves by a crystal, equivalent to Bragg's law but in vector form. [Read more](https://en.wikipedia.org/wiki/Laue_equations)
 
 
 
