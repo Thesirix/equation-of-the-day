@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large \mathbf{a}_i \cdot \Delta \mathbf{k} = 2\pi v_i
+\large \dot{M} = \frac{4\pi G^2 M^2 \rho_\infty}{c_s^3}
 $$
 
-Max von Laue - **Laue Equations** (1912)
+Hermann Bondi - **Bondi Accretion Rate** (1952)
 
 > [!NOTE]
-> A set of three equations for the scattering of waves by a crystal, equivalent to Bragg's law but in vector form. [Read more](https://en.wikipedia.org/wiki/Laue_equations)
+> Calculates the rate at which a compact object (like a black hole) accretes surrounding matter from a uniform gas cloud. [Read more](https://en.wikipedia.org/wiki/Bondi_accretion)
 
 
 
