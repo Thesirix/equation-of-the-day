@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large \dot{M} = \frac{4\pi G^2 M^2 \rho_\infty}{c_s^3}
+\large \frac{\partial p}{\partial t} = -\frac{\partial}{\partial x}(\mu p) + \frac{\partial^2}{\partial x^2}(D p)
 $$
 
-Hermann Bondi - **Bondi Accretion Rate** (1952)
+Adriaan Fokker & Max Planck - **Fokker-Planck Equation** (1914)
 
 > [!NOTE]
-> Calculates the rate at which a compact object (like a black hole) accretes surrounding matter from a uniform gas cloud. [Read more](https://en.wikipedia.org/wiki/Bondi_accretion)
+> Describes the time evolution of the probability density function of the velocity of a particle under the influence of drag forces and random forces. [Read more](https://en.wikipedia.org/wiki/Fokker%E2%80%93Planck_equation)
 
 
 
