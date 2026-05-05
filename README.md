@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large \frac{\partial p}{\partial t} = -\frac{\partial}{\partial x}(\mu p) + \frac{\partial^2}{\partial x^2}(D p)
+\large CO = \frac{VO_2}{C_aO_2 - C_vO_2}
 $$
 
-Adriaan Fokker & Max Planck - **Fokker-Planck Equation** (1914)
+Adolf Fick - **Fick's Principle (Cardiac Output)** (1870)
 
 > [!NOTE]
-> Describes the time evolution of the probability density function of the velocity of a particle under the influence of drag forces and random forces. [Read more](https://en.wikipedia.org/wiki/Fokker%E2%80%93Planck_equation)
+> Used in medicine to calculate the blood flow (cardiac output) based on oxygen consumption. [Read more](https://en.wikipedia.org/wiki/Fick_principle)
 
 
 
