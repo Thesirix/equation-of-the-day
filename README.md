@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large CO = \frac{VO_2}{C_aO_2 - C_vO_2}
+\large F = k_e \frac{q_1 q_2}{r^2}
 $$
 
-Adolf Fick - **Fick's Principle (Cardiac Output)** (1870)
+Charles-Augustin de Coulomb - **Coulomb's Law** (1785)
 
 > [!NOTE]
-> Used in medicine to calculate the blood flow (cardiac output) based on oxygen consumption. [Read more](https://en.wikipedia.org/wiki/Fick_principle)
+> Quantifies the amount of force between two stationary, electrically charged particles. [Read more](https://en.wikipedia.org/wiki/Coulomb%27s_law)
 
 
 
