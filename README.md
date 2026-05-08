@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large M = C \frac{B}{T}
+\large T = \frac{\hbar a}{2\pi c k_B}
 $$
 
-Pierre Curie - **Curie's Law** (1895)
+William Unruh - **Unruh Temperature** (1976)
 
 > [!NOTE]
-> States that the magnetization in a paramagnetic material is directly proportional to the applied magnetic field. [Read more](https://en.wikipedia.org/wiki/Curie%27s_law)
+> Predicts that an accelerating observer will observe black-body radiation where an inertial observer would observe none. [Read more](https://en.wikipedia.org/wiki/Unruh_effect)
 
 
 
