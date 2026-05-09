@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large T = \frac{\hbar a}{2\pi c k_B}
+\large P = e^{-d/s}
 $$
 
-William Unruh - **Unruh Temperature** (1976)
+Roger Shepard - **Universal Law of Generalization** (1987)
 
 > [!NOTE]
-> Predicts that an accelerating observer will observe black-body radiation where an inertial observer would observe none. [Read more](https://en.wikipedia.org/wiki/Unruh_effect)
+> A fundamental law of psychology stating that the probability of a response generalizes from one stimulus to another as an exponential function of distance in psychological space. [Read more](https://en.wikipedia.org/wiki/Shepard%27s_law)
 
 
 
