@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large P = e^{-d/s}
+\large y_{n+1} = y_n + \frac{1}{6}(k_1 + 2k_2 + 2k_3 + k_4)h
 $$
 
-Roger Shepard - **Universal Law of Generalization** (1987)
+Carl Runge & Martin Kutta - **Runge-Kutta 4th Order Method** (1901)
 
 > [!NOTE]
-> A fundamental law of psychology stating that the probability of a response generalizes from one stimulus to another as an exponential function of distance in psychological space. [Read more](https://en.wikipedia.org/wiki/Shepard%27s_law)
+> A widely used iterative method for the approximate solutions of simultaneous nonlinear ordinary differential equations. [Read more](https://en.wikipedia.org/wiki/Runge%E2%80%93Kutta_methods)
 
 
 
