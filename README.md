@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large y_{n+1} = y_n + \frac{1}{6}(k_1 + 2k_2 + 2k_3 + k_4)h
+\large S = k_B N \left[ \ln\left( \frac{V}{N} \left(\frac{4\pi m E}{3h^2 N}\right)^{3/2} \right) + \frac{5}{2} \right]
 $$
 
-Carl Runge & Martin Kutta - **Runge-Kutta 4th Order Method** (1901)
+Otto Sackur & Hugo Tetrode - **Sackur-Tetrode Equation** (1912)
 
 > [!NOTE]
-> A widely used iterative method for the approximate solutions of simultaneous nonlinear ordinary differential equations. [Read more](https://en.wikipedia.org/wiki/Runge%E2%80%93Kutta_methods)
+> Expresses the entropy of a monatomic classical ideal gas, resolving the Gibbs paradox. [Read more](https://en.wikipedia.org/wiki/Sackur%E2%80%93Tetrode_equation)
 
 
 
