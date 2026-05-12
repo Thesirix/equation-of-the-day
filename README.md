@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large S = k_B N \left[ \ln\left( \frac{V}{N} \left(\frac{4\pi m E}{3h^2 N}\right)^{3/2} \right) + \frac{5}{2} \right]
+\large \sigma_t^2 = \omega + \sum_{i=1}^q \alpha_i \varepsilon_{t-i}^2 + \sum_{j=1}^p \beta_j \sigma_{t-j}^2
 $$
 
-Otto Sackur & Hugo Tetrode - **Sackur-Tetrode Equation** (1912)
+Tim Bollerslev - **GARCH Model Variance** (1986)
 
 > [!NOTE]
-> Expresses the entropy of a monatomic classical ideal gas, resolving the Gibbs paradox. [Read more](https://en.wikipedia.org/wiki/Sackur%E2%80%93Tetrode_equation)
+> Generalized Autoregressive Conditional Heteroskedasticity, widely used in financial forecasting to model the volatility of returns. [Read more](https://en.wikipedia.org/wiki/Autoregressive_conditional_heteroskedasticity)
 
 
 
