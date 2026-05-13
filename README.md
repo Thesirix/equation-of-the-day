@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large \sigma_t^2 = \omega + \sum_{i=1}^q \alpha_i \varepsilon_{t-i}^2 + \sum_{j=1}^p \beta_j \sigma_{t-j}^2
+\large P(t) = P_0 e^{rt}
 $$
 
-Tim Bollerslev - **GARCH Model Variance** (1986)
+Thomas Robert Malthus - **Malthusian Growth Model** (1798)
 
 > [!NOTE]
-> Generalized Autoregressive Conditional Heteroskedasticity, widely used in financial forecasting to model the volatility of returns. [Read more](https://en.wikipedia.org/wiki/Autoregressive_conditional_heteroskedasticity)
+> The original exponential growth formula used to project population growth under the assumption of infinite resources. [Read more](https://en.wikipedia.org/wiki/Malthusian_growth_model)
 
 
 
