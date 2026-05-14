@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large P(t) = P_0 e^{rt}
+\large (p_1 + p_2 + ... + p_n)^2 = 1
 $$
 
-Thomas Robert Malthus - **Malthusian Growth Model** (1798)
+G. H. Hardy & Wilhelm Weinberg - **Hardy-Weinberg Equilibrium (Multi-Allele)** (1908)
 
 > [!NOTE]
-> The original exponential growth formula used to project population growth under the assumption of infinite resources. [Read more](https://en.wikipedia.org/wiki/Malthusian_growth_model)
+> The extension of the principle to multiple alleles, calculating genotype frequencies in population genetics. [Read more](https://en.wikipedia.org/wiki/Hardy%E2%80%93Weinberg_principle)
 
 
 
