@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large (p_1 + p_2 + ... + p_n)^2 = 1
+\large \frac{\varepsilon_r - 1}{\varepsilon_r + 2} = \frac{N \alpha}{3 \varepsilon_0}
 $$
 
-G. H. Hardy & Wilhelm Weinberg - **Hardy-Weinberg Equilibrium (Multi-Allele)** (1908)
+Rudolf Clausius & Ottaviano-Fabrizio Mossotti - **Clausius-Mossotti Relation** (1850)
 
 > [!NOTE]
-> The extension of the principle to multiple alleles, calculating genotype frequencies in population genetics. [Read more](https://en.wikipedia.org/wiki/Hardy%E2%80%93Weinberg_principle)
+> Connects the macroscopic dielectric constant of a material to the microscopic polarizability of its atoms or molecules. [Read more](https://en.wikipedia.org/wiki/Clausius%E2%80%93Mossotti_relation)
 
 
 
