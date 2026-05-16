@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large \frac{\varepsilon_r - 1}{\varepsilon_r + 2} = \frac{N \alpha}{3 \varepsilon_0}
+\large A = \varepsilon \ell c
 $$
 
-Rudolf Clausius & Ottaviano-Fabrizio Mossotti - **Clausius-Mossotti Relation** (1850)
+August Beer & Johann Lambert - **Beer-Lambert Law** (1852)
 
 > [!NOTE]
-> Connects the macroscopic dielectric constant of a material to the microscopic polarizability of its atoms or molecules. [Read more](https://en.wikipedia.org/wiki/Clausius%E2%80%93Mossotti_relation)
+> Relates the attenuation of light to the properties of the material through which the light is travelling. [Read more](https://en.wikipedia.org/wiki/Beer%E2%80%93Lambert_law)
 
 
 
