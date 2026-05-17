@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large A = \varepsilon \ell c
+\large \text{BIC} = k \ln(n) - 2 \ln(\hat{L})
 $$
 
-August Beer & Johann Lambert - **Beer-Lambert Law** (1852)
+Gideon E. Schwarz - **Bayesian Information Criterion (BIC)** (1978)
 
 > [!NOTE]
-> Relates the attenuation of light to the properties of the material through which the light is travelling. [Read more](https://en.wikipedia.org/wiki/Beer%E2%80%93Lambert_law)
+> A criterion for model selection among a finite set of models; the model with the lowest BIC is preferred. [Read more](https://en.wikipedia.org/wiki/Bayesian_information_criterion)
 
 
 
