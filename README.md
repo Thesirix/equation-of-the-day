@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large \text{BIC} = k \ln(n) - 2 \ln(\hat{L})
+\large C = \frac{u \Delta t}{\Delta x} \le C_{\max}
 $$
 
-Gideon E. Schwarz - **Bayesian Information Criterion (BIC)** (1978)
+Richard Courant, Kurt Friedrichs & Hans Lewy - **Courant-Friedrichs-Lewy Condition (CFL)** (1928)
 
 > [!NOTE]
-> A criterion for model selection among a finite set of models; the model with the lowest BIC is preferred. [Read more](https://en.wikipedia.org/wiki/Bayesian_information_criterion)
+> A necessary condition for convergence while solving certain partial differential equations numerically. [Read more](https://en.wikipedia.org/wiki/Courant%E2%80%93Friedrichs%E2%80%93Lewy_condition)
 
 
 
