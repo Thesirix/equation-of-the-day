@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large C = \frac{u \Delta t}{\Delta x} \le C_{\max}
+\large \lambda_{\max} T = b
 $$
 
-Richard Courant, Kurt Friedrichs & Hans Lewy - **Courant-Friedrichs-Lewy Condition (CFL)** (1928)
+Wilhelm Wien - **Wien's Displacement Law** (1893)
 
 > [!NOTE]
-> A necessary condition for convergence while solving certain partial differential equations numerically. [Read more](https://en.wikipedia.org/wiki/Courant%E2%80%93Friedrichs%E2%80%93Lewy_condition)
+> States that the black-body radiation curve for different temperatures will peak at different wavelengths that are inversely proportional to the temperature. [Read more](https://en.wikipedia.org/wiki/Wien%27s_displacement_law)
 
 
 
