@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large \lambda_{\max} T = b
+\large C \mathbf{v} = \lambda \mathbf{v}
 $$
 
-Wilhelm Wien - **Wien's Displacement Law** (1893)
+Karl Pearson - **Principal Component Analysis (Eigenproblem)** (1901)
 
 > [!NOTE]
-> States that the black-body radiation curve for different temperatures will peak at different wavelengths that are inversely proportional to the temperature. [Read more](https://en.wikipedia.org/wiki/Wien%27s_displacement_law)
+> The foundational equation for PCA, finding the principal components of a dataset via the eigenvectors of its covariance matrix. [Read more](https://en.wikipedia.org/wiki/Principal_component_analysis)
 
 
 
