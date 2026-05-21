@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large C \mathbf{v} = \lambda \mathbf{v}
+\large \cos \theta^* = f_1 \cos \theta_1 + f_2 \cos \theta_2
 $$
 
-Karl Pearson - **Principal Component Analysis (Eigenproblem)** (1901)
+A.B.D. Cassie & S. Baxter - **Cassie-Baxter Equation** (1944)
 
 > [!NOTE]
-> The foundational equation for PCA, finding the principal components of a dataset via the eigenvectors of its covariance matrix. [Read more](https://en.wikipedia.org/wiki/Principal_component_analysis)
+> Explains the 'lotus effect' or superhydrophobicity, where water drops roll off a surface because air is trapped under them. [Read more](https://en.wikipedia.org/wiki/Wetting#Cassie%E2%80%93Baxter_model)
 
 
 
