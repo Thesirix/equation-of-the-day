@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large \cos \theta^* = f_1 \cos \theta_1 + f_2 \cos \theta_2
+\large T = a + b \log_2 \left( 1 + \frac{D}{W} \right)
 $$
 
-A.B.D. Cassie & S. Baxter - **Cassie-Baxter Equation** (1944)
+Paul Fitts - **Fitts's Law (HCI)** (1954)
 
 > [!NOTE]
-> Explains the 'lotus effect' or superhydrophobicity, where water drops roll off a surface because air is trapped under them. [Read more](https://en.wikipedia.org/wiki/Wetting#Cassie%E2%80%93Baxter_model)
+> Predicts the time required to rapidly move to a target area, a staple in User Interface (UI) design. [Read more](https://en.wikipedia.org/wiki/Fitts%27s_law)
 
 
 
