@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large T = a + b \log_2 \left( 1 + \frac{D}{W} \right)
+\large \log_{10} p = A - \frac{B}{C + T}
 $$
 
-Paul Fitts - **Fitts's Law (HCI)** (1954)
+Louis Charles Antoine - **Antoine Equation** (1888)
 
 > [!NOTE]
-> Predicts the time required to rapidly move to a target area, a staple in User Interface (UI) design. [Read more](https://en.wikipedia.org/wiki/Fitts%27s_law)
+> A simple 3-parameter equation to describe the relation between the vapor pressure and temperature of pure substances. [Read more](https://en.wikipedia.org/wiki/Antoine_equation)
 
 
 
