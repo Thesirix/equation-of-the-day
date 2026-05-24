@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large \log_{10} p = A - \frac{B}{C + T}
+\large E_c = \frac{m_e^2 c^3}{e \hbar}
 $$
 
-Louis Charles Antoine - **Antoine Equation** (1888)
+Julian Schwinger - **Schwinger Limit** (1951)
 
 > [!NOTE]
-> A simple 3-parameter equation to describe the relation between the vapor pressure and temperature of pure substances. [Read more](https://en.wikipedia.org/wiki/Antoine_equation)
+> The critical electric field strength above which the electromagnetic field is expected to become nonlinear, capable of creating electron-positron pairs from a vacuum. [Read more](https://en.wikipedia.org/wiki/Schwinger_limit)
 
 
 
