@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large E_c = \frac{m_e^2 c^3}{e \hbar}
+\large (\Box + m^2)\psi = 0
 $$
 
-Julian Schwinger - **Schwinger Limit** (1951)
+Oskar Klein & Walter Gordon - **Klein-Gordon Equation** (1926)
 
 > [!NOTE]
-> The critical electric field strength above which the electromagnetic field is expected to become nonlinear, capable of creating electron-positron pairs from a vacuum. [Read more](https://en.wikipedia.org/wiki/Schwinger_limit)
+> A relativistic version of the Schrödinger equation for spinless particles. [Read more](https://en.wikipedia.org/wiki/Klein%E2%80%93Gordon_equation)
 
 
 
