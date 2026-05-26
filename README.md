@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large (\Box + m^2)\psi = 0
+\large \rho \left( \frac{\partial \mathbf{v}}{\partial t} + \mathbf{v} \cdot \nabla \mathbf{v} \right) = -\nabla p + \mu \nabla^2 \mathbf{v} + \mathbf{f}
 $$
 
-Oskar Klein & Walter Gordon - **Klein-Gordon Equation** (1926)
+Claude-Louis Navier & George Stokes - **Navier-Stokes Equation (Incompressible)** (1822)
 
 > [!NOTE]
-> A relativistic version of the Schrödinger equation for spinless particles. [Read more](https://en.wikipedia.org/wiki/Klein%E2%80%93Gordon_equation)
+> Describes the motion of viscous fluid substances, foundational for aerodynamics and weather forecasting. [Read more](https://en.wikipedia.org/wiki/Navier%E2%80%93Stokes_equations)
 
 
 
