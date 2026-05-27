@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large \rho \left( \frac{\partial \mathbf{v}}{\partial t} + \mathbf{v} \cdot \nabla \mathbf{v} \right) = -\nabla p + \mu \nabla^2 \mathbf{v} + \mathbf{f}
+\large 2f''' + f f'' = 0
 $$
 
-Claude-Louis Navier & George Stokes - **Navier-Stokes Equation (Incompressible)** (1822)
+Paul Richard Heinrich Blasius - **Blasius Boundary Layer Equation** (1908)
 
 > [!NOTE]
-> Describes the motion of viscous fluid substances, foundational for aerodynamics and weather forecasting. [Read more](https://en.wikipedia.org/wiki/Navier%E2%80%93Stokes_equations)
+> Describes the two-dimensional, steady, incompressible flow over a flat plate, forming a boundary layer. [Read more](https://en.wikipedia.org/wiki/Blasius_boundary_layer)
 
 
 
