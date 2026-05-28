@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large 2f''' + f f'' = 0
+\large \iint_M K dA + \oint_{\partial M} k_g ds = 2\pi \chi(M)
 $$
 
-Paul Richard Heinrich Blasius - **Blasius Boundary Layer Equation** (1908)
+Carl Friedrich Gauss & Pierre Ossian Bonnet - **Gauss-Bonnet Theorem** (1848)
 
 > [!NOTE]
-> Describes the two-dimensional, steady, incompressible flow over a flat plate, forming a boundary layer. [Read more](https://en.wikipedia.org/wiki/Blasius_boundary_layer)
+> Connects the geometry of surfaces to their topology. [Read more](https://en.wikipedia.org/wiki/Gauss%E2%80%93Bonnet_theorem)
 
 
 
