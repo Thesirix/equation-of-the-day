@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large \iint_M K dA + \oint_{\partial M} k_g ds = 2\pi \chi(M)
+\large \iint_S (\nabla \times \mathbf{F}) \cdot d\mathbf{S} = \oint_C \mathbf{F} \cdot d\mathbf{r}
 $$
 
-Carl Friedrich Gauss & Pierre Ossian Bonnet - **Gauss-Bonnet Theorem** (1848)
+George Gabriel Stokes - **Stokes' Theorem** (1854)
 
 > [!NOTE]
-> Connects the geometry of surfaces to their topology. [Read more](https://en.wikipedia.org/wiki/Gauss%E2%80%93Bonnet_theorem)
+> A statement about the integration of differential forms on manifolds, which simplifies and generalizes several theorems from vector calculus. [Read more](https://en.wikipedia.org/wiki/Stokes%27_theorem)
 
 
 
