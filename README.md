@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large \iint_S (\nabla \times \mathbf{F}) \cdot d\mathbf{S} = \oint_C \mathbf{F} \cdot d\mathbf{r}
+\large l_P = \sqrt{\frac{\hbar G}{c^3}}
 $$
 
-George Gabriel Stokes - **Stokes' Theorem** (1854)
+Max Planck - **Planck Length** (1899)
 
 > [!NOTE]
-> A statement about the integration of differential forms on manifolds, which simplifies and generalizes several theorems from vector calculus. [Read more](https://en.wikipedia.org/wiki/Stokes%27_theorem)
+> The scale at which classical ideas about gravity and space-time cease to be valid, and quantum effects dominate. [Read more](https://en.wikipedia.org/wiki/Planck_length)
 
 
 
