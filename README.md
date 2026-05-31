@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large l_P = \sqrt{\frac{\hbar G}{c^3}}
+\large \frac{dS}{dt} = -\frac{\beta I S}{N}
 $$
 
-Max Planck - **Planck Length** (1899)
+William Kermack & Anderson McKendrick - **SIR Model (Susceptible)** (1927)
 
 > [!NOTE]
-> The scale at which classical ideas about gravity and space-time cease to be valid, and quantum effects dominate. [Read more](https://en.wikipedia.org/wiki/Planck_length)
+> The differential equation tracking the rate at which susceptible individuals in a population get infected during an epidemic. [Read more](https://en.wikipedia.org/wiki/Compartmental_models_in_epidemiology#The_SIR_model)
 
 
 
