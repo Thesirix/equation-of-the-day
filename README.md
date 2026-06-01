@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large \frac{dS}{dt} = -\frac{\beta I S}{N}
+\large V_n(R) = \frac{\pi^{n/2}}{\Gamma(\frac{n}{2} + 1)} R^n
 $$
 
-William Kermack & Anderson McKendrick - **SIR Model (Susceptible)** (1927)
+Hermann Weyl - **Volume of an n-ball** (1939)
 
 > [!NOTE]
-> The differential equation tracking the rate at which susceptible individuals in a population get infected during an epidemic. [Read more](https://en.wikipedia.org/wiki/Compartmental_models_in_epidemiology#The_SIR_model)
+> The formula for the volume of an n-dimensional sphere of radius R. [Read more](https://en.wikipedia.org/wiki/Volume_of_an_n-ball)
 
 
 
