@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large V_n(R) = \frac{\pi^{n/2}}{\Gamma(\frac{n}{2} + 1)} R^n
+\large P(R) = P_0 \frac{c \tau}{2} A \frac{\beta(R)}{R^2} \exp\left(-2 \int_0^R \alpha(r) dr\right)
 $$
 
-Hermann Weyl - **Volume of an n-ball** (1939)
+Raymond Measures - **Lidar Equation** (1984)
 
 > [!NOTE]
-> The formula for the volume of an n-dimensional sphere of radius R. [Read more](https://en.wikipedia.org/wiki/Volume_of_an_n-ball)
+> Calculates the received power of a laser pulse backscattered by atmospheric particles as a function of range. [Read more](https://en.wikipedia.org/wiki/Lidar#Lidar_equation)
 
 
 
