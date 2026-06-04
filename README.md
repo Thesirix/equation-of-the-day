@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large ds^2 = -c^2 dt^2 + (dx - v_s(t) f(r_s) dt)^2 + dy^2 + dz^2
+\large \Delta x \Delta p \ge \frac{\hbar}{2}
 $$
 
-Miguel Alcubierre - **Alcubierre Warp Drive Metric** (1994)
+Werner Heisenberg - **Heisenberg Uncertainty Principle** (1927)
 
 > [!NOTE]
-> A theoretical solution in General Relativity that allows faster-than-light travel by contracting space in front of a spaceship and expanding it behind. [Read more](https://en.wikipedia.org/wiki/Alcubierre_drive)
+> Asserts a fundamental limit to the precision with which certain pairs of physical properties can be known. [Read more](https://en.wikipedia.org/wiki/Uncertainty_principle)
 
 
 
