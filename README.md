@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large \Delta x \Delta p \ge \frac{\hbar}{2}
+\large \frac{dx}{dt} = \alpha x - \beta xy
 $$
 
-Werner Heisenberg - **Heisenberg Uncertainty Principle** (1927)
+Alfred J. Lotka & Vito Volterra - **Lotka-Volterra Equations (Prey)** (1910)
 
 > [!NOTE]
-> Asserts a fundamental limit to the precision with which certain pairs of physical properties can be known. [Read more](https://en.wikipedia.org/wiki/Uncertainty_principle)
+> A pair of first-order nonlinear differential equations describing the dynamics of biological systems in which two species interact. [Read more](https://en.wikipedia.org/wiki/Lotka%E2%80%93Volterra_equations)
 
 
 
