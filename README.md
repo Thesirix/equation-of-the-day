@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large \frac{dx}{dt} = \alpha x - \beta xy
+\large |\langle \mathbf{u}, \mathbf{v} \rangle|^2 \le \langle \mathbf{u}, \mathbf{u} \rangle \cdot \langle \mathbf{v}, \mathbf{v} \rangle
 $$
 
-Alfred J. Lotka & Vito Volterra - **Lotka-Volterra Equations (Prey)** (1910)
+Augustin-Louis Cauchy & Hermann Schwarz - **Cauchy-Schwarz Inequality** (1821)
 
 > [!NOTE]
-> A pair of first-order nonlinear differential equations describing the dynamics of biological systems in which two species interact. [Read more](https://en.wikipedia.org/wiki/Lotka%E2%80%93Volterra_equations)
+> An elementary inequality in inner product spaces, widely used in linear algebra and analysis. [Read more](https://en.wikipedia.org/wiki/Cauchy%E2%80%93Schwarz_inequality)
 
 
 
