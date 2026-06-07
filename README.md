@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large |\langle \mathbf{u}, \mathbf{v} \rangle|^2 \le \langle \mathbf{u}, \mathbf{u} \rangle \cdot \langle \mathbf{v}, \mathbf{v} \rangle
+\large \frac{1}{f} = \frac{1}{d_o} + \frac{1}{d_i}
 $$
 
-Augustin-Louis Cauchy & Hermann Schwarz - **Cauchy-Schwarz Inequality** (1821)
+Rene Descartes - **Thin Lens Equation** (1637)
 
 > [!NOTE]
-> An elementary inequality in inner product spaces, widely used in linear algebra and analysis. [Read more](https://en.wikipedia.org/wiki/Cauchy%E2%80%93Schwarz_inequality)
+> Relates the object distance, image distance, and focal length for a thin lens. [Read more](https://en.wikipedia.org/wiki/Thin_lens)
 
 
 
