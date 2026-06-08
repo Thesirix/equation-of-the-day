@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large \frac{1}{f} = \frac{1}{d_o} + \frac{1}{d_i}
+\large E_A = \frac{1}{1 + 10^{(R_B - R_A)/400}}
 $$
 
-Rene Descartes - **Thin Lens Equation** (1637)
+Arpad Elo - **Elo Expected Score** (1960)
 
 > [!NOTE]
-> Relates the object distance, image distance, and focal length for a thin lens. [Read more](https://en.wikipedia.org/wiki/Thin_lens)
+> Calculates the expected probability of player A winning against player B based on their respective ratings, widely used in chess and video games. [Read more](https://en.wikipedia.org/wiki/Elo_rating_system)
 
 
 
