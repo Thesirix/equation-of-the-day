@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large E_A = \frac{1}{1 + 10^{(R_B - R_A)/400}}
+\large \frac{\Delta Y}{Y} = k - c \Delta u
 $$
 
-Arpad Elo - **Elo Expected Score** (1960)
+Arthur Okun - **Okun's Law** (1962)
 
 > [!NOTE]
-> Calculates the expected probability of player A winning against player B based on their respective ratings, widely used in chess and video games. [Read more](https://en.wikipedia.org/wiki/Elo_rating_system)
+> An empirically observed relationship between unemployment and losses in a country's production. [Read more](https://en.wikipedia.org/wiki/Okun%27s_law)
 
 
 
