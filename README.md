@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large \frac{\Delta Y}{Y} = k - c \Delta u
+\large Q(s_t, a_t) \leftarrow Q(s_t, a_t) + \alpha \left[ r_{t+1} + \gamma \max_a Q(s_{t+1}, a) - Q(s_t, a_t) \right]
 $$
 
-Arthur Okun - **Okun's Law** (1962)
+Christopher Watkins - **Q-Learning Update Rule** (1989)
 
 > [!NOTE]
-> An empirically observed relationship between unemployment and losses in a country's production. [Read more](https://en.wikipedia.org/wiki/Okun%27s_law)
+> A fundamental equation in reinforcement learning, used by AI to learn optimal actions in an environment. [Read more](https://en.wikipedia.org/wiki/Q-learning)
 
 
 
