@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large Q(s_t, a_t) \leftarrow Q(s_t, a_t) + \alpha \left[ r_{t+1} + \gamma \max_a Q(s_{t+1}, a) - Q(s_t, a_t) \right]
+\large r = \frac{\sum_{i=1}^n (x_i - \bar{x})(y_i - \bar{y})}{\sqrt{\sum_{i=1}^n (x_i - \bar{x})^2} \sqrt{\sum_{i=1}^n (y_i - \bar{y})^2}}
 $$
 
-Christopher Watkins - **Q-Learning Update Rule** (1989)
+Karl Pearson - **Pearson Correlation Coefficient** (1895)
 
 > [!NOTE]
-> A fundamental equation in reinforcement learning, used by AI to learn optimal actions in an environment. [Read more](https://en.wikipedia.org/wiki/Q-learning)
+> A measure of the linear correlation between two variables X and Y. [Read more](https://en.wikipedia.org/wiki/Pearson_correlation_coefficient)
 
 
 
