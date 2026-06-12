@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large r = \frac{\sum_{i=1}^n (x_i - \bar{x})(y_i - \bar{y})}{\sqrt{\sum_{i=1}^n (x_i - \bar{x})^2} \sqrt{\sum_{i=1}^n (y_i - \bar{y})^2}}
+\large I = I_0 \cos^2 \theta
 $$
 
-Karl Pearson - **Pearson Correlation Coefficient** (1895)
+Étienne-Louis Malus - **Malus's Law** (1809)
 
 > [!NOTE]
-> A measure of the linear correlation between two variables X and Y. [Read more](https://en.wikipedia.org/wiki/Pearson_correlation_coefficient)
+> Gives the intensity of a plane-polarized light wave after passing through a polarizer. [Read more](https://en.wikipedia.org/wiki/Polarizer#Malus's_law)
 
 
 
