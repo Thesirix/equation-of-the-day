@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large I = I_0 \cos^2 \theta
+\large \Delta p = \gamma \left( \frac{1}{R_1} + \frac{1}{R_2} \right)
 $$
 
-Étienne-Louis Malus - **Malus's Law** (1809)
+Thomas Young & Pierre-Simon Laplace - **Young-Laplace Equation** (1805)
 
 > [!NOTE]
-> Gives the intensity of a plane-polarized light wave after passing through a polarizer. [Read more](https://en.wikipedia.org/wiki/Polarizer#Malus's_law)
+> Describes the capillary pressure difference sustained across the interface between two static fluids due to surface tension. [Read more](https://en.wikipedia.org/wiki/Young%E2%80%93Laplace_equation)
 
 
 
