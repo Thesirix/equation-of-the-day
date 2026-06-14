@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large \Delta p = \gamma \left( \frac{1}{R_1} + \frac{1}{R_2} \right)
+\large F = k_e \frac{q_1 q_2}{r^2}
 $$
 
-Thomas Young & Pierre-Simon Laplace - **Young-Laplace Equation** (1805)
+Charles-Augustin de Coulomb - **Coulomb's Law** (1785)
 
 > [!NOTE]
-> Describes the capillary pressure difference sustained across the interface between two static fluids due to surface tension. [Read more](https://en.wikipedia.org/wiki/Young%E2%80%93Laplace_equation)
+> Quantifies the amount of force between two stationary, electrically charged particles. [Read more](https://en.wikipedia.org/wiki/Coulomb%27s_law)
 
 
 
