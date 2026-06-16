@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large U = \frac{1}{2} L I^2
+\large T_H = \frac{\hbar c^3}{8\pi G M k_B}
 $$
 
-James Clerk Maxwell - **Energy stored in an Inductor** (1861)
+Stephen Hawking - **Hawking Radiation Temperature** (1974)
 
 > [!NOTE]
-> Represents the magnetic potential energy stored within an inductor carrying a current. [Read more](https://en.wikipedia.org/wiki/Inductor#Stored_energy)
+> Predicts that black holes emit black-body radiation due to quantum effects near the event horizon. [Read more](https://en.wikipedia.org/wiki/Hawking_radiation)
 
 
 
