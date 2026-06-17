@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large T_H = \frac{\hbar c^3}{8\pi G M k_B}
+\large \iiint_V (\nabla \cdot \mathbf{F}) dV = \iint_S (\mathbf{F} \cdot \mathbf{n}) dS
 $$
 
-Stephen Hawking - **Hawking Radiation Temperature** (1974)
+Carl Friedrich Gauss - **Divergence Theorem** (1813)
 
 > [!NOTE]
-> Predicts that black holes emit black-body radiation due to quantum effects near the event horizon. [Read more](https://en.wikipedia.org/wiki/Hawking_radiation)
+> Relates the flux of a vector field through a closed surface to the divergence of the field in the volume enclosed. [Read more](https://en.wikipedia.org/wiki/Divergence_theorem)
 
 
 
