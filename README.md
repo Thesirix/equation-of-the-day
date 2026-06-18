@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large \iiint_V (\nabla \cdot \mathbf{F}) dV = \iint_S (\mathbf{F} \cdot \mathbf{n}) dS
+\large \frac{1}{\xi^2} \frac{d}{d\xi}\left(\xi^2 \frac{d\theta}{d\xi}\right) + \theta^n = 0
 $$
 
-Carl Friedrich Gauss - **Divergence Theorem** (1813)
+Jonathan Homer Lane & Robert Emden - **Lane-Emden Equation** (1870)
 
 > [!NOTE]
-> Relates the flux of a vector field through a closed surface to the divergence of the field in the volume enclosed. [Read more](https://en.wikipedia.org/wiki/Divergence_theorem)
+> A dimensionless form of Poisson's equation for the gravitational potential of a Newtonian self-gravitating, spherically symmetric, polytropic fluid. [Read more](https://en.wikipedia.org/wiki/Lane%E2%80%93Emden_equation)
 
 
 
