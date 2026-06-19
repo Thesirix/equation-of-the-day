@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large \frac{1}{\xi^2} \frac{d}{d\xi}\left(\xi^2 \frac{d\theta}{d\xi}\right) + \theta^n = 0
+\large \zeta(s) = 0 \implies \Re(s) = \frac{1}{2}
 $$
 
-Jonathan Homer Lane & Robert Emden - **Lane-Emden Equation** (1870)
+Bernhard Riemann - **Riemann Hypothesis** (1859)
 
 > [!NOTE]
-> A dimensionless form of Poisson's equation for the gravitational potential of a Newtonian self-gravitating, spherically symmetric, polytropic fluid. [Read more](https://en.wikipedia.org/wiki/Lane%E2%80%93Emden_equation)
+> A Millennium Prize Problem stating that all non-trivial zeros of the zeta function lie on the critical line, deeply tied to the distribution of primes. [Read more](https://en.wikipedia.org/wiki/Riemann_hypothesis)
 
 
 
