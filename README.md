@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large \zeta(s) = 0 \implies \Re(s) = \frac{1}{2}
+\large P + \frac{1}{2}\rho v^2 + \rho gh = \text{constant}
 $$
 
-Bernhard Riemann - **Riemann Hypothesis** (1859)
+Daniel Bernoulli - **Bernoulli's Equation** (1738)
 
 > [!NOTE]
-> A Millennium Prize Problem stating that all non-trivial zeros of the zeta function lie on the critical line, deeply tied to the distribution of primes. [Read more](https://en.wikipedia.org/wiki/Riemann_hypothesis)
+> Relates the pressure, velocity, and height of a flowing fluid, based on the principle of conservation of energy. [Read more](https://en.wikipedia.org/wiki/Bernoulli%27s_principle)
 
 
 
