@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large P + \frac{1}{2}\rho v^2 + \rho gh = \text{constant}
+\large k = \frac{k_B T}{h} e^{-\frac{\Delta G^\ddagger}{RT}}
 $$
 
-Daniel Bernoulli - **Bernoulli's Equation** (1738)
+Henry Eyring - **Eyring Equation** (1935)
 
 > [!NOTE]
-> Relates the pressure, velocity, and height of a flowing fluid, based on the principle of conservation of energy. [Read more](https://en.wikipedia.org/wiki/Bernoulli%27s_principle)
+> Describes changes in the rate of a chemical reaction over temperature, based on transition state theory. [Read more](https://en.wikipedia.org/wiki/Eyring_equation)
 
 
 
