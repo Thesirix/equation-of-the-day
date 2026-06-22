@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large k = \frac{k_B T}{h} e^{-\frac{\Delta G^\ddagger}{RT}}
+\large \log_{10} p = A - \frac{B}{C + T}
 $$
 
-Henry Eyring - **Eyring Equation** (1935)
+Louis Charles Antoine - **Antoine Equation** (1888)
 
 > [!NOTE]
-> Describes changes in the rate of a chemical reaction over temperature, based on transition state theory. [Read more](https://en.wikipedia.org/wiki/Eyring_equation)
+> A simple 3-parameter equation to describe the relation between the vapor pressure and temperature of pure substances. [Read more](https://en.wikipedia.org/wiki/Antoine_equation)
 
 
 
