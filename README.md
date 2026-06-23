@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large \log_{10} p = A - \frac{B}{C + T}
+\large Q = -\frac{kA}{\mu} \frac{\Delta P}{L}
 $$
 
-Louis Charles Antoine - **Antoine Equation** (1888)
+Henry Darcy - **Darcy's Law** (1856)
 
 > [!NOTE]
-> A simple 3-parameter equation to describe the relation between the vapor pressure and temperature of pure substances. [Read more](https://en.wikipedia.org/wiki/Antoine_equation)
+> Describes the flow of a fluid through a porous medium. [Read more](https://en.wikipedia.org/wiki/Darcy%27s_law)
 
 
 
