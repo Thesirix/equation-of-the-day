@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large Q = -\frac{kA}{\mu} \frac{\Delta P}{L}
+\large e^{i\pi} + 1 = 0
 $$
 
-Henry Darcy - **Darcy's Law** (1856)
+Leonhard Euler - **Euler's Identity** (1748)
 
 > [!NOTE]
-> Describes the flow of a fluid through a porous medium. [Read more](https://en.wikipedia.org/wiki/Darcy%27s_law)
+> Considered the most beautiful equation in mathematics, it connects five fundamental constants. [Read more](https://en.wikipedia.org/wiki/Euler%27s_identity)
 
 
 
