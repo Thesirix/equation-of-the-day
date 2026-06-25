@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large e^{i\pi} + 1 = 0
+\large \oint_C f(z) dz = 0
 $$
 
-Leonhard Euler - **Euler's Identity** (1748)
+Augustin-Louis Cauchy - **Cauchy's Integral Theorem** (1825)
 
 > [!NOTE]
-> Considered the most beautiful equation in mathematics, it connects five fundamental constants. [Read more](https://en.wikipedia.org/wiki/Euler%27s_identity)
+> States that the line integral of a holomorphic function over a simple closed contour is zero. [Read more](https://en.wikipedia.org/wiki/Cauchy%27s_integral_theorem)
 
 
 
