@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large \oint_C f(z) dz = 0
+\large \pi = \sum_{k=0}^\infty \frac{1}{16^k} \left( \frac{4}{8k+1} - \frac{2}{8k+4} - \frac{1}{8k+5} - \frac{1}{8k+6} \right)
 $$
 
-Augustin-Louis Cauchy - **Cauchy's Integral Theorem** (1825)
+Simon Plouffe - **Bailey-Borwein-Plouffe Formula** (1995)
 
 > [!NOTE]
-> States that the line integral of a holomorphic function over a simple closed contour is zero. [Read more](https://en.wikipedia.org/wiki/Cauchy%27s_integral_theorem)
+> A spigot algorithm for computing the nth base-16 digit of pi without computing the preceding digits. [Read more](https://en.wikipedia.org/wiki/Bailey%E2%80%93Borwein%E2%80%93Plouffe_formula)
 
 
 
