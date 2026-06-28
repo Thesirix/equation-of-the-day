@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large \frac{\Delta Y}{Y} = k - c \Delta u
+\large \frac{d}{dt} \hat{A}(t) = \frac{i}{\hbar} [\hat{H}, \hat{A}(t)] + \frac{\partial \hat{A}(t)}{\partial t}
 $$
 
-Arthur Okun - **Okun's Law** (1962)
+Werner Heisenberg - **Heisenberg Equation of Motion** (1925)
 
 > [!NOTE]
-> An empirically observed relationship between unemployment and losses in a country's production. [Read more](https://en.wikipedia.org/wiki/Okun%27s_law)
+> The fundamental equation in the Heisenberg picture of quantum mechanics, where operators evolve in time while state vectors are constant. [Read more](https://en.wikipedia.org/wiki/Heisenberg_picture)
 
 
 
