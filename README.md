@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large \frac{d}{dt} \hat{A}(t) = \frac{i}{\hbar} [\hat{H}, \hat{A}(t)] + \frac{\partial \hat{A}(t)}{\partial t}
+\large \text{AIC} = 2k - 2\ln(\hat{L})
 $$
 
-Werner Heisenberg - **Heisenberg Equation of Motion** (1925)
+Hirotugu Akaike - **Akaike Information Criterion (AIC)** (1974)
 
 > [!NOTE]
-> The fundamental equation in the Heisenberg picture of quantum mechanics, where operators evolve in time while state vectors are constant. [Read more](https://en.wikipedia.org/wiki/Heisenberg_picture)
+> An estimator of out-of-sample prediction error and thereby relative quality of statistical models for a given set of data. [Read more](https://en.wikipedia.org/wiki/Akaike_information_criterion)
 
 
 
