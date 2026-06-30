@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large \text{AIC} = 2k - 2\ln(\hat{L})
+\large n_1 \sin \theta_1 = n_2 \sin \theta_2
 $$
 
-Hirotugu Akaike - **Akaike Information Criterion (AIC)** (1974)
+Willebrord Snellius - **Snell's Law** (1621)
 
 > [!NOTE]
-> An estimator of out-of-sample prediction error and thereby relative quality of statistical models for a given set of data. [Read more](https://en.wikipedia.org/wiki/Akaike_information_criterion)
+> Describes the relationship between the angles of incidence and refraction, when referring to light or other waves passing through a boundary between two different media. [Read more](https://en.wikipedia.org/wiki/Snell%27s_law)
 
 
 
