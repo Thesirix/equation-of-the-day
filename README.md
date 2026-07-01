@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large n_1 \sin \theta_1 = n_2 \sin \theta_2
+\large a_0 = \frac{4\pi \varepsilon_0 \hbar^2}{m_e e^2}
 $$
 
-Willebrord Snellius - **Snell's Law** (1621)
+Niels Bohr - **Bohr Radius** (1913)
 
 > [!NOTE]
-> Describes the relationship between the angles of incidence and refraction, when referring to light or other waves passing through a boundary between two different media. [Read more](https://en.wikipedia.org/wiki/Snell%27s_law)
+> A physical constant, approximately equal to the most probable distance between the nucleus and the electron in a hydrogen atom in its ground state. [Read more](https://en.wikipedia.org/wiki/Bohr_radius)
 
 
 
