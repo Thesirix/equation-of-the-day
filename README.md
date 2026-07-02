@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large a_0 = \frac{4\pi \varepsilon_0 \hbar^2}{m_e e^2}
+\large Z = \sum_i e^{-\beta E_i}
 $$
 
-Niels Bohr - **Bohr Radius** (1913)
+Ludwig Boltzmann & Josiah Willard Gibbs - **Canonical Partition Function** (1902)
 
 > [!NOTE]
-> A physical constant, approximately equal to the most probable distance between the nucleus and the electron in a hydrogen atom in its ground state. [Read more](https://en.wikipedia.org/wiki/Bohr_radius)
+> Encodes the statistical properties of a system in thermodynamic equilibrium with a heat bath. [Read more](https://en.wikipedia.org/wiki/Partition_function_(statistical_mechanics))
 
 
 
