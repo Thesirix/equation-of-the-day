@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large Z = \sum_i e^{-\beta E_i}
+\large 2 \langle T \rangle + \langle V \rangle = 0
 $$
 
-Ludwig Boltzmann & Josiah Willard Gibbs - **Canonical Partition Function** (1902)
+Rudolf Clausius - **Virial Theorem** (1870)
 
 > [!NOTE]
-> Encodes the statistical properties of a system in thermodynamic equilibrium with a heat bath. [Read more](https://en.wikipedia.org/wiki/Partition_function_(statistical_mechanics))
+> Relates the average over time of the total kinetic energy of a stable system to the average over time of the total potential energy. [Read more](https://en.wikipedia.org/wiki/Virial_theorem)
 
 
 
