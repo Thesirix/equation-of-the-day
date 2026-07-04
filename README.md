@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large 2 \langle T \rangle + \langle V \rangle = 0
+\large \text{Gr} = \frac{g \beta (T_s - T_\infty) L^3}{\nu^2}
 $$
 
-Rudolf Clausius - **Virial Theorem** (1870)
+Franz Grashof - **Grashof Number** (1883)
 
 > [!NOTE]
-> Relates the average over time of the total kinetic energy of a stable system to the average over time of the total potential energy. [Read more](https://en.wikipedia.org/wiki/Virial_theorem)
+> A dimensionless number in fluid dynamics and heat transfer which approximates the ratio of the buoyancy to viscous force acting on a fluid. [Read more](https://en.wikipedia.org/wiki/Grashof_number)
 
 
 
