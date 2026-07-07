@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large (i\gamma^\mu\partial_\mu - m)\psi = 0
+\large U = \frac{1}{2} k x^2
 $$
 
-Paul Dirac - **Dirac Equation** (1928)
+Robert Hooke - **Elastic Potential Energy** (1660)
 
 > [!NOTE]
-> A relativistic wave equation that describes all spin-1/2 massive particles and predicted the existence of antimatter. [Read more](https://en.wikipedia.org/wiki/Dirac_equation)
+> The potential energy stored as a result of deformation of an elastic object, such as the stretching of a spring. [Read more](https://en.wikipedia.org/wiki/Elastic_potential_energy)
 
 
 
