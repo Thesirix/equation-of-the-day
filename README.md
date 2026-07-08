@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large U = \frac{1}{2} k x^2
+\large p = \frac{h}{\lambda}
 $$
 
-Robert Hooke - **Elastic Potential Energy** (1660)
+Albert Einstein - **Photon Momentum** (1905)
 
 > [!NOTE]
-> The potential energy stored as a result of deformation of an elastic object, such as the stretching of a spring. [Read more](https://en.wikipedia.org/wiki/Elastic_potential_energy)
+> Relates the momentum of a photon to its wavelength, fundamental to wave-particle duality. [Read more](https://en.wikipedia.org/wiki/Photon#Energy_and_momentum)
 
 
 
