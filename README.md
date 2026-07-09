@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large p = \frac{h}{\lambda}
+\large S_{\text{latency}}(s) = \frac{1}{(1-p) + \frac{p}{s}}
 $$
 
-Albert Einstein - **Photon Momentum** (1905)
+Gene Amdahl - **Amdahl's Law** (1967)
 
 > [!NOTE]
-> Relates the momentum of a photon to its wavelength, fundamental to wave-particle duality. [Read more](https://en.wikipedia.org/wiki/Photon#Energy_and_momentum)
+> Used in computer science to find the maximum expected improvement to an overall system when only part of the system is improved. [Read more](https://en.wikipedia.org/wiki/Amdahl%27s_law)
 
 
 
