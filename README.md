@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large S_{\text{latency}}(s) = \frac{1}{(1-p) + \frac{p}{s}}
+\large n_1 \sin \theta_1 = n_2 \sin \theta_2
 $$
 
-Gene Amdahl - **Amdahl's Law** (1967)
+Willebrord Snellius - **Snell's Law** (1621)
 
 > [!NOTE]
-> Used in computer science to find the maximum expected improvement to an overall system when only part of the system is improved. [Read more](https://en.wikipedia.org/wiki/Amdahl%27s_law)
+> Describes the relationship between the angles of incidence and refraction, when referring to light or other waves passing through a boundary between two different media. [Read more](https://en.wikipedia.org/wiki/Snell%27s_law)
 
 
 
