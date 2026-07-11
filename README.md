@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large n_1 \sin \theta_1 = n_2 \sin \theta_2
+\large T(n) = a T\left(\frac{n}{b}\right) + f(n)
 $$
 
-Willebrord Snellius - **Snell's Law** (1621)
+Jon Bentley, Dorothea Haken & James Saxe - **Master Theorem** (1980)
 
 > [!NOTE]
-> Describes the relationship between the angles of incidence and refraction, when referring to light or other waves passing through a boundary between two different media. [Read more](https://en.wikipedia.org/wiki/Snell%27s_law)
+> Provides a cookbook solution for asymptotic analysis of divide-and-conquer algorithms. [Read more](https://en.wikipedia.org/wiki/Master_theorem_(analysis_of_algorithms))
 
 
 
