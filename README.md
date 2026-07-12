@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large T(n) = a T\left(\frac{n}{b}\right) + f(n)
+\large d(v) = \min(d(v), d(u) + w(u, v))
 $$
 
-Jon Bentley, Dorothea Haken & James Saxe - **Master Theorem** (1980)
+Edsger W. Dijkstra - **Dijkstra's Relaxation** (1956)
 
 > [!NOTE]
-> Provides a cookbook solution for asymptotic analysis of divide-and-conquer algorithms. [Read more](https://en.wikipedia.org/wiki/Master_theorem_(analysis_of_algorithms))
+> The core update step in Dijkstra's algorithm to find the shortest path between nodes in a graph. [Read more](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
 
 
 
