@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large d(v) = \min(d(v), d(u) + w(u, v))
+\large A = \varepsilon \ell c
 $$
 
-Edsger W. Dijkstra - **Dijkstra's Relaxation** (1956)
+August Beer & Johann Lambert - **Beer-Lambert Law** (1852)
 
 > [!NOTE]
-> The core update step in Dijkstra's algorithm to find the shortest path between nodes in a graph. [Read more](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
+> Relates the attenuation of light to the properties of the material through which the light is travelling. [Read more](https://en.wikipedia.org/wiki/Beer%E2%80%93Lambert_law)
 
 
 
