@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large A = \varepsilon \ell c
+\large d(v) = \min_{u \in V} \{ d(u) + w(u, v) \}
 $$
 
-August Beer & Johann Lambert - **Beer-Lambert Law** (1852)
+Richard Bellman & Lester Ford - **Bellman-Ford Algorithm** (1958)
 
 > [!NOTE]
-> Relates the attenuation of light to the properties of the material through which the light is travelling. [Read more](https://en.wikipedia.org/wiki/Beer%E2%80%93Lambert_law)
+> Computes shortest paths from a single source vertex to all of the other vertices in a weighted digraph, robust to negative edge weights. [Read more](https://en.wikipedia.org/wiki/Bellman%E2%80%93Ford_algorithm)
 
 
 
