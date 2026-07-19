@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large I = I_0 \frac{8\pi^4 \alpha^2}{\lambda^4 R^2} (1+\cos^2 \theta)
+\large J = \sum_{j=1}^k \sum_{i=1}^n ||x_i^{(j)} - c_j||^2
 $$
 
-Lord Rayleigh - **Rayleigh Scattering** (1871)
+Stuart Lloyd - **K-Means Objective Function** (1957)
 
 > [!NOTE]
-> Explains the elastic scattering of light by particles much smaller than the wavelength of the radiation, explaining why the sky is blue. [Read more](https://en.wikipedia.org/wiki/Rayleigh_scattering)
+> The variance to be minimized in the k-means clustering algorithm, a cornerstone of unsupervised machine learning. [Read more](https://en.wikipedia.org/wiki/K-means_clustering)
 
 
 
