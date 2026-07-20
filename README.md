@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large J = \sum_{j=1}^k \sum_{i=1}^n ||x_i^{(j)} - c_j||^2
+\large P = \frac{\mu_0 q^2 a^2}{6\pi c}
 $$
 
-Stuart Lloyd - **K-Means Objective Function** (1957)
+Joseph Larmor - **Larmor Formula** (1897)
 
 > [!NOTE]
-> The variance to be minimized in the k-means clustering algorithm, a cornerstone of unsupervised machine learning. [Read more](https://en.wikipedia.org/wiki/K-means_clustering)
+> Calculates the total power radiated by a non-relativistic point charge as it accelerates. [Read more](https://en.wikipedia.org/wiki/Larmor_formula)
 
 
 
