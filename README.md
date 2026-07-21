@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large P = \frac{\mu_0 q^2 a^2}{6\pi c}
+\large \frac{\partial \phi}{\partial t} = D \frac{\partial^2 \phi}{\partial x^2}
 $$
 
-Joseph Larmor - **Larmor Formula** (1897)
+Adolf Fick - **Fick's Second Law of Diffusion** (1855)
 
 > [!NOTE]
-> Calculates the total power radiated by a non-relativistic point charge as it accelerates. [Read more](https://en.wikipedia.org/wiki/Larmor_formula)
+> Predicts how diffusion causes the concentration to change with respect to time. [Read more](https://en.wikipedia.org/wiki/Fick%27s_laws_of_diffusion#Fick's_second_law)
 
 
 
