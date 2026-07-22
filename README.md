@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large \frac{\partial \phi}{\partial t} = D \frac{\partial^2 \phi}{\partial x^2}
+\large \frac{dx}{dt} = -\beta x y
 $$
 
-Adolf Fick - **Fick's Second Law of Diffusion** (1855)
+Daley & Kendall - **The Speed of a Rumor** (1964)
 
 > [!NOTE]
-> Predicts how diffusion causes the concentration to change with respect to time. [Read more](https://en.wikipedia.org/wiki/Fick%27s_laws_of_diffusion#Fick's_second_law)
+> A mathematical model of rumor spreading in a population, similar to an epidemic model. [Read more](https://en.wikipedia.org/wiki/Rumor_spread_in_social_networks)
 
 
 
