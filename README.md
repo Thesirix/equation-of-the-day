@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large \frac{dx}{dt} = -\beta x y
+\large k_{et} = \frac{2\pi}{\hbar} |H_{AB}|^2 \frac{1}{\sqrt{4\pi \lambda k_B T}} \exp\left( -\frac{(\lambda + \Delta G^\circ)^2}{4\lambda k_B T} \right)
 $$
 
-Daley & Kendall - **The Speed of a Rumor** (1964)
+Rudolph A. Marcus - **Marcus Theory Equation** (1956)
 
 > [!NOTE]
-> A mathematical model of rumor spreading in a population, similar to an epidemic model. [Read more](https://en.wikipedia.org/wiki/Rumor_spread_in_social_networks)
+> Explains the rates of electron transfer reactions, a fundamental process in chemistry and biology. [Read more](https://en.wikipedia.org/wiki/Marcus_theory)
 
 
 
