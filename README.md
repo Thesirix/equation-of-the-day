@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large k_{et} = \frac{2\pi}{\hbar} |H_{AB}|^2 \frac{1}{\sqrt{4\pi \lambda k_B T}} \exp\left( -\frac{(\lambda + \Delta G^\circ)^2}{4\lambda k_B T} \right)
+\large L = - \frac{u_*^3 \bar{\theta}_v}{k g (\overline{w'\theta_v'})_s}
 $$
 
-Rudolph A. Marcus - **Marcus Theory Equation** (1956)
+Alexander Obukhov - **Obukhov Length** (1946)
 
 > [!NOTE]
-> Explains the rates of electron transfer reactions, a fundamental process in chemistry and biology. [Read more](https://en.wikipedia.org/wiki/Marcus_theory)
+> A parameter in boundary layer meteorology that compares the effects of buoyant production of turbulent kinetic energy to shear production. [Read more](https://en.wikipedia.org/wiki/Obukhov_length)
 
 
 
