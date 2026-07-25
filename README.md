@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large L = - \frac{u_*^3 \bar{\theta}_v}{k g (\overline{w'\theta_v'})_s}
+\large \frac{1}{v} = \frac{K_m}{V_{\max}[S]} + \frac{1}{V_{\max}}
 $$
 
-Alexander Obukhov - **Obukhov Length** (1946)
+Hans Lineweaver & Dean Burk - **Lineweaver-Burk Equation** (1934)
 
 > [!NOTE]
-> A parameter in boundary layer meteorology that compares the effects of buoyant production of turbulent kinetic energy to shear production. [Read more](https://en.wikipedia.org/wiki/Obukhov_length)
+> A linear transformation of the Michaelis-Menten equation, used to determine enzyme kinetics parameters. [Read more](https://en.wikipedia.org/wiki/Lineweaver%E2%80%93Burk_plot)
 
 
 
