@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large \frac{1}{v} = \frac{K_m}{V_{\max}[S]} + \frac{1}{V_{\max}}
+\large \mathbf{F} = q(\mathbf{E} + \mathbf{v} \times \mathbf{B})
 $$
 
-Hans Lineweaver & Dean Burk - **Lineweaver-Burk Equation** (1934)
+Hendrik Lorentz - **Lorentz Force Law** (1895)
 
 > [!NOTE]
-> A linear transformation of the Michaelis-Menten equation, used to determine enzyme kinetics parameters. [Read more](https://en.wikipedia.org/wiki/Lineweaver%E2%80%93Burk_plot)
+> The combination of electric and magnetic force on a point charge due to electromagnetic fields. [Read more](https://en.wikipedia.org/wiki/Lorentz_force)
 
 
 
