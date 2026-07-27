@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large \mathbf{F} = q(\mathbf{E} + \mathbf{v} \times \mathbf{B})
+\large C = \frac{u \Delta t}{\Delta x} \le C_{\max}
 $$
 
-Hendrik Lorentz - **Lorentz Force Law** (1895)
+Richard Courant, Kurt Friedrichs & Hans Lewy - **Courant-Friedrichs-Lewy Condition (CFL)** (1928)
 
 > [!NOTE]
-> The combination of electric and magnetic force on a point charge due to electromagnetic fields. [Read more](https://en.wikipedia.org/wiki/Lorentz_force)
+> A necessary condition for convergence while solving certain partial differential equations numerically. [Read more](https://en.wikipedia.org/wiki/Courant%E2%80%93Friedrichs%E2%80%93Lewy_condition)
 
 
 
