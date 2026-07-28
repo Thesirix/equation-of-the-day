@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large C = \frac{u \Delta t}{\Delta x} \le C_{\max}
+\large V_{t,k} = \max_{x \in X} ( P(y_t | k) \cdot a_{x,k} \cdot V_{t-1, x} )
 $$
 
-Richard Courant, Kurt Friedrichs & Hans Lewy - **Courant-Friedrichs-Lewy Condition (CFL)** (1928)
+Andrew Viterbi - **Viterbi Algorithm** (1967)
 
 > [!NOTE]
-> A necessary condition for convergence while solving certain partial differential equations numerically. [Read more](https://en.wikipedia.org/wiki/Courant%E2%80%93Friedrichs%E2%80%93Lewy_condition)
+> A dynamic programming algorithm for finding the most likely sequence of hidden states in a Hidden Markov Model. [Read more](https://en.wikipedia.org/wiki/Viterbi_algorithm)
 
 
 
