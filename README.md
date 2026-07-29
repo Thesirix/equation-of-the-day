@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large V_{t,k} = \max_{x \in X} ( P(y_t | k) \cdot a_{x,k} \cdot V_{t-1, x} )
+\large p = k \ln\left(\frac{S}{S_0}\right)
 $$
 
-Andrew Viterbi - **Viterbi Algorithm** (1967)
+Ernst Heinrich Weber & Gustav Fechner - **Weber-Fechner Law** (1860)
 
 > [!NOTE]
-> A dynamic programming algorithm for finding the most likely sequence of hidden states in a Hidden Markov Model. [Read more](https://en.wikipedia.org/wiki/Viterbi_algorithm)
+> A fundamental law in psychophysics quantifying the perception of change in a given stimulus (sound, light, weight). [Read more](https://en.wikipedia.org/wiki/Weber%E2%80%93Fechner_law)
 
 
 
