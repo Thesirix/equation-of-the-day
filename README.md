@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large p = k \ln\left(\frac{S}{S_0}\right)
+\large C_V = \frac{12\pi^4}{5} N k_B \left(\frac{T}{\theta_D}\right)^3
 $$
 
-Ernst Heinrich Weber & Gustav Fechner - **Weber-Fechner Law** (1860)
+Peter Debye - **Debye Heat Capacity Law** (1912)
 
 > [!NOTE]
-> A fundamental law in psychophysics quantifying the perception of change in a given stimulus (sound, light, weight). [Read more](https://en.wikipedia.org/wiki/Weber%E2%80%93Fechner_law)
+> Calculates the phonon contribution to the specific heat in a solid at low temperatures, predicting a T^3 dependence. [Read more](https://en.wikipedia.org/wiki/Debye_model)
 
 
 
