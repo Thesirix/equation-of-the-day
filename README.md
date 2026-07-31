@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large C_V = \frac{12\pi^4}{5} N k_B \left(\frac{T}{\theta_D}\right)^3
+\large (\cos x + i \sin x)^n = \cos(nx) + i \sin(nx)
 $$
 
-Peter Debye - **Debye Heat Capacity Law** (1912)
+Abraham de Moivre - **De Moivre's Formula** (1707)
 
 > [!NOTE]
-> Calculates the phonon contribution to the specific heat in a solid at low temperatures, predicting a T^3 dependence. [Read more](https://en.wikipedia.org/wiki/Debye_model)
+> Connects complex numbers and trigonometry. [Read more](https://en.wikipedia.org/wiki/De_Moivre%27s_formula)
 
 
 
