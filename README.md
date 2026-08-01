@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large (\cos x + i \sin x)^n = \cos(nx) + i \sin(nx)
+\large F_d = 6\pi \mu R v
 $$
 
-Abraham de Moivre - **De Moivre's Formula** (1707)
+George Gabriel Stokes - **Stokes' Law** (1851)
 
 > [!NOTE]
-> Connects complex numbers and trigonometry. [Read more](https://en.wikipedia.org/wiki/De_Moivre%27s_formula)
+> Calculates the frictional force acting on spherical objects with very small Reynolds numbers in a viscous fluid. [Read more](https://en.wikipedia.org/wiki/Stokes%27_law)
 
 
 
