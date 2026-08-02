@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large F_d = 6\pi \mu R v
+\large f''' + f f'' + \beta (1 - (f')^2) = 0
 $$
 
-George Gabriel Stokes - **Stokes' Law** (1851)
+V. M. Falkner & Sylvia W. Skan - **Falkner-Skan Equation** (1931)
 
 > [!NOTE]
-> Calculates the frictional force acting on spherical objects with very small Reynolds numbers in a viscous fluid. [Read more](https://en.wikipedia.org/wiki/Stokes%27_law)
+> An extension of the Blasius equation used to model the boundary layer flow over a wedge. [Read more](https://en.wikipedia.org/wiki/Falkner%E2%80%93Skan_boundary_layer)
 
 
 
