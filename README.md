@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large f''' + f f'' + \beta (1 - (f')^2) = 0
+\large V = \frac{1}{n} R_h^{2/3} S^{1/2}
 $$
 
-V. M. Falkner & Sylvia W. Skan - **Falkner-Skan Equation** (1931)
+Robert Manning - **Manning Formula** (1889)
 
 > [!NOTE]
-> An extension of the Blasius equation used to model the boundary layer flow over a wedge. [Read more](https://en.wikipedia.org/wiki/Falkner%E2%80%93Skan_boundary_layer)
+> An empirical formula estimating the average velocity of a liquid flowing in a conduit that does not completely enclose the liquid. [Read more](https://en.wikipedia.org/wiki/Manning_formula)
 
 
 
