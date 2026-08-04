@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large V = \frac{1}{n} R_h^{2/3} S^{1/2}
+\large E_A = \frac{1}{1 + 10^{(R_B - R_A)/400}}
 $$
 
-Robert Manning - **Manning Formula** (1889)
+Arpad Elo - **Elo Expected Score** (1960)
 
 > [!NOTE]
-> An empirical formula estimating the average velocity of a liquid flowing in a conduit that does not completely enclose the liquid. [Read more](https://en.wikipedia.org/wiki/Manning_formula)
+> Calculates the expected probability of player A winning against player B based on their respective ratings, widely used in chess and video games. [Read more](https://en.wikipedia.org/wiki/Elo_rating_system)
 
 
 
