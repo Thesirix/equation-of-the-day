@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large E_A = \frac{1}{1 + 10^{(R_B - R_A)/400}}
+\large T = \frac{\hbar a}{2\pi c k_B}
 $$
 
-Arpad Elo - **Elo Expected Score** (1960)
+William Unruh - **Unruh Temperature** (1976)
 
 > [!NOTE]
-> Calculates the expected probability of player A winning against player B based on their respective ratings, widely used in chess and video games. [Read more](https://en.wikipedia.org/wiki/Elo_rating_system)
+> Predicts that an accelerating observer will observe black-body radiation where an inertial observer would observe none. [Read more](https://en.wikipedia.org/wiki/Unruh_effect)
 
 
 
