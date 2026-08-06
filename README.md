@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large T = \frac{\hbar a}{2\pi c k_B}
+\large t_P = \sqrt{\frac{\hbar G}{c^5}}
 $$
 
-William Unruh - **Unruh Temperature** (1976)
+Max Planck - **Planck Time** (1899)
 
 > [!NOTE]
-> Predicts that an accelerating observer will observe black-body radiation where an inertial observer would observe none. [Read more](https://en.wikipedia.org/wiki/Unruh_effect)
+> The time required for light to travel a distance of 1 Planck length in a vacuum. [Read more](https://en.wikipedia.org/wiki/Planck_time)
 
 
 
