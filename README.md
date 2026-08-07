@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large t_P = \sqrt{\frac{\hbar G}{c^5}}
+\large I = i_0 M^{3/4} e^{-E/kT}
 $$
 
-Max Planck - **Planck Time** (1899)
+James Brown - **Metabolic Theory of Ecology** (2004)
 
 > [!NOTE]
-> The time required for light to travel a distance of 1 Planck length in a vacuum. [Read more](https://en.wikipedia.org/wiki/Planck_time)
+> Predicts how the metabolic rate of organisms governs ecological processes from individuals to ecosystems. [Read more](https://en.wikipedia.org/wiki/Metabolic_theory_of_ecology)
 
 
 
