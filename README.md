@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large I = i_0 M^{3/4} e^{-E/kT}
+\large \tau = \frac{K \lambda}{\beta \cos \theta}
 $$
 
-James Brown - **Metabolic Theory of Ecology** (2004)
+Paul Scherrer - **Scherrer Equation** (1918)
 
 > [!NOTE]
-> Predicts how the metabolic rate of organisms governs ecological processes from individuals to ecosystems. [Read more](https://en.wikipedia.org/wiki/Metabolic_theory_of_ecology)
+> Relates the size of sub-micrometre crystallites in a solid to the broadening of a peak in a diffraction pattern. [Read more](https://en.wikipedia.org/wiki/Scherrer_equation)
 
 
 
