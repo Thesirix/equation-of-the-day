@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large \tau = \frac{K \lambda}{\beta \cos \theta}
+\large F_L = \frac{1}{2} \rho v^2 A C_L
 $$
 
-Paul Scherrer - **Scherrer Equation** (1918)
+Daniel Bernoulli - **Benoulli's Principle for Sails** (1738)
 
 > [!NOTE]
-> Relates the size of sub-micrometre crystallites in a solid to the broadening of a peak in a diffraction pattern. [Read more](https://en.wikipedia.org/wiki/Scherrer_equation)
+> Explains how a sailboat can travel faster than the wind by creating a pressure difference across the sail. [Read more](https://en.wikipedia.org/wiki/Forces_on_sails)
 
 
 
