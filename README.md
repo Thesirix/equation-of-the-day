@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large F_L = \frac{1}{2} \rho v^2 A C_L
+\large \frac{d}{dt} \langle A \rangle = \frac{1}{i\hbar} \langle [A, H] \rangle + \left\langle \frac{\partial A}{\partial t} \right\rangle
 $$
 
-Daniel Bernoulli - **Benoulli's Principle for Sails** (1738)
+Paul Ehrenfest - **Ehrenfest Theorem** (1927)
 
 > [!NOTE]
-> Explains how a sailboat can travel faster than the wind by creating a pressure difference across the sail. [Read more](https://en.wikipedia.org/wiki/Forces_on_sails)
+> Relates the time derivative of the expectation values of the position and momentum operators to the expectation value of the force. [Read more](https://en.wikipedia.org/wiki/Ehrenfest_theorem)
 
 
 
