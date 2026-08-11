@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large \frac{d}{dt} \langle A \rangle = \frac{1}{i\hbar} \langle [A, H] \rangle + \left\langle \frac{\partial A}{\partial t} \right\rangle
+\large E^2 = (pc)^2 + (m_0 c^2)^2
 $$
 
-Paul Ehrenfest - **Ehrenfest Theorem** (1927)
+Albert Einstein - **Energy-Momentum Relation** (1905)
 
 > [!NOTE]
-> Relates the time derivative of the expectation values of the position and momentum operators to the expectation value of the force. [Read more](https://en.wikipedia.org/wiki/Ehrenfest_theorem)
+> The relativistic equation relating the total energy, invariant mass, and momentum of a particle. [Read more](https://en.wikipedia.org/wiki/Energy%E2%80%93momentum_relation)
 
 
 
