@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large E^2 = (pc)^2 + (m_0 c^2)^2
+\large \Delta p = \gamma \left( \frac{1}{R_1} + \frac{1}{R_2} \right)
 $$
 
-Albert Einstein - **Energy-Momentum Relation** (1905)
+Thomas Young & Pierre-Simon Laplace - **Young-Laplace Equation** (1805)
 
 > [!NOTE]
-> The relativistic equation relating the total energy, invariant mass, and momentum of a particle. [Read more](https://en.wikipedia.org/wiki/Energy%E2%80%93momentum_relation)
+> Describes the capillary pressure difference sustained across the interface between two static fluids due to surface tension. [Read more](https://en.wikipedia.org/wiki/Young%E2%80%93Laplace_equation)
 
 
 
