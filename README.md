@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large \Delta p = \gamma \left( \frac{1}{R_1} + \frac{1}{R_2} \right)
+\large S \le \frac{2\pi k_B E R}{\hbar c}
 $$
 
-Thomas Young & Pierre-Simon Laplace - **Young-Laplace Equation** (1805)
+Jacob Bekenstein - **Bekenstein Bound** (1981)
 
 > [!NOTE]
-> Describes the capillary pressure difference sustained across the interface between two static fluids due to surface tension. [Read more](https://en.wikipedia.org/wiki/Young%E2%80%93Laplace_equation)
+> An upper limit on the entropy, or information, that can be contained within a given finite region of space. [Read more](https://en.wikipedia.org/wiki/Bekenstein_bound)
 
 
 
