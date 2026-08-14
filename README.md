@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large S \le \frac{2\pi k_B E R}{\hbar c}
+\large T = b \log_2 (n + 1)
 $$
 
-Jacob Bekenstein - **Bekenstein Bound** (1981)
+William Edmund Hick - **Hick's Law (HCI)** (1952)
 
 > [!NOTE]
-> An upper limit on the entropy, or information, that can be contained within a given finite region of space. [Read more](https://en.wikipedia.org/wiki/Bekenstein_bound)
+> Describes the time it takes for a person to make a decision as a result of the possible choices they have. [Read more](https://en.wikipedia.org/wiki/Hick%27s_law)
 
 
 
