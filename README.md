@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large T = b \log_2 (n + 1)
+\large R = Y - C
 $$
 
-William Edmund Hick - **Hick's Law (HCI)** (1952)
+David Ricardo - **The Law of Rent** (1809)
 
 > [!NOTE]
-> Describes the time it takes for a person to make a decision as a result of the possible choices they have. [Read more](https://en.wikipedia.org/wiki/Hick%27s_law)
+> States that the rent of a land site is equal to the economic advantage obtained by using the site in its most productive use. [Read more](https://en.wikipedia.org/wiki/Law_of_rent)
 
 
 
