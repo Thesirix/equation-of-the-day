@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large R = Y - C
+\large F = \frac{\mu_0 I_1 I_2 L}{2\pi r}
 $$
 
-David Ricardo - **The Law of Rent** (1809)
+André-Marie Ampère - **Ampère's Force Law** (1825)
 
 > [!NOTE]
-> States that the rent of a land site is equal to the economic advantage obtained by using the site in its most productive use. [Read more](https://en.wikipedia.org/wiki/Law_of_rent)
+> Calculates the attractive or repulsive force between two current-carrying wires. [Read more](https://en.wikipedia.org/wiki/Amp%C3%A8re%27s_force_law)
 
 
 
