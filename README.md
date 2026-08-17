@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large F = \frac{\mu_0 I_1 I_2 L}{2\pi r}
+\large \frac{a}{\sin A} = \frac{b}{\sin B} = \frac{c}{\sin C}
 $$
 
-André-Marie Ampère - **Ampère's Force Law** (1825)
+Nasir al-Din al-Tusi - **Law of Sines** (1260)
 
 > [!NOTE]
-> Calculates the attractive or repulsive force between two current-carrying wires. [Read more](https://en.wikipedia.org/wiki/Amp%C3%A8re%27s_force_law)
+> An equation relating the lengths of the sides of a triangle to the sines of its angles. [Read more](https://en.wikipedia.org/wiki/Law_of_sines)
 
 
 
