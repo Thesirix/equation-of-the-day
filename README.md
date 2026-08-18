@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large \frac{a}{\sin A} = \frac{b}{\sin B} = \frac{c}{\sin C}
+\large \rho \frac{D\mathbf{u}}{Dt} = \nabla \cdot \boldsymbol{\sigma} + \mathbf{f}
 $$
 
-Nasir al-Din al-Tusi - **Law of Sines** (1260)
+Augustin-Louis Cauchy - **Cauchy Momentum Equation** (1822)
 
 > [!NOTE]
-> An equation relating the lengths of the sides of a triangle to the sines of its angles. [Read more](https://en.wikipedia.org/wiki/Law_of_sines)
+> A vector partial differential equation that describes the non-relativistic momentum transport in any continuum. [Read more](https://en.wikipedia.org/wiki/Cauchy_momentum_equation)
 
 
 
