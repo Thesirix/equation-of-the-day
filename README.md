@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large \rho \frac{D\mathbf{u}}{Dt} = \nabla \cdot \boldsymbol{\sigma} + \mathbf{f}
+\large i\hbar \frac{\partial}{\partial t} \Psi(\mathbf{r},t) = \hat{H} \Psi(\mathbf{r},t)
 $$
 
-Augustin-Louis Cauchy - **Cauchy Momentum Equation** (1822)
+Erwin Schrödinger - **Schrödinger Equation (Time-Dependent)** (1926)
 
 > [!NOTE]
-> A vector partial differential equation that describes the non-relativistic momentum transport in any continuum. [Read more](https://en.wikipedia.org/wiki/Cauchy_momentum_equation)
+> A linear partial differential equation that governs the wave function of a quantum-mechanical system. [Read more](https://en.wikipedia.org/wiki/Schr%C3%B6dinger_equation)
 
 
 
