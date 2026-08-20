@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large i\hbar \frac{\partial}{\partial t} \Psi(\mathbf{r},t) = \hat{H} \Psi(\mathbf{r},t)
+\large \frac{dS}{dt} = -\frac{\beta I S}{N}
 $$
 
-Erwin Schrödinger - **Schrödinger Equation (Time-Dependent)** (1926)
+William Kermack & Anderson McKendrick - **SIR Model (Susceptible)** (1927)
 
 > [!NOTE]
-> A linear partial differential equation that governs the wave function of a quantum-mechanical system. [Read more](https://en.wikipedia.org/wiki/Schr%C3%B6dinger_equation)
+> The differential equation tracking the rate at which susceptible individuals in a population get infected during an epidemic. [Read more](https://en.wikipedia.org/wiki/Compartmental_models_in_epidemiology#The_SIR_model)
 
 
 
