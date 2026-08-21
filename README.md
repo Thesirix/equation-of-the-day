@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large \frac{dS}{dt} = -\frac{\beta I S}{N}
+\large k = \frac{\omega_0 \omega_b}{2\pi \gamma} e^{-\frac{\Delta V}{k_B T}}
 $$
 
-William Kermack & Anderson McKendrick - **SIR Model (Susceptible)** (1927)
+Hendrik Kramers - **Kramers Escape Rate** (1940)
 
 > [!NOTE]
-> The differential equation tracking the rate at which susceptible individuals in a population get infected during an epidemic. [Read more](https://en.wikipedia.org/wiki/Compartmental_models_in_epidemiology#The_SIR_model)
+> Describes the rate at which a particle escapes a potential well due to thermal fluctuations, bridging physics and chemical reaction rates. [Read more](https://en.wikipedia.org/wiki/Kramers_escape_rate)
 
 
 
