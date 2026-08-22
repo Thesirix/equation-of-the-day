@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large k = \frac{\omega_0 \omega_b}{2\pi \gamma} e^{-\frac{\Delta V}{k_B T}}
+\large X_L = 2\pi f L
 $$
 
-Hendrik Kramers - **Kramers Escape Rate** (1940)
+Oliver Heaviside - **Inductive Reactance** (1887)
 
 > [!NOTE]
-> Describes the rate at which a particle escapes a potential well due to thermal fluctuations, bridging physics and chemical reaction rates. [Read more](https://en.wikipedia.org/wiki/Kramers_escape_rate)
+> The opposition of an inductor to a changing current. [Read more](https://en.wikipedia.org/wiki/Electrical_reactance#Inductive_reactance)
 
 
 
