@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large X_L = 2\pi f L
+\large \frac{n_+}{n_0} = \frac{g_+}{g_0} \exp\left(\frac{W - I}{k_B T}\right)
 $$
 
-Oliver Heaviside - **Inductive Reactance** (1887)
+Meghnad Saha & Irving Langmuir - **Saha-Langmuir Equation** (1925)
 
 > [!NOTE]
-> The opposition of an inductor to a changing current. [Read more](https://en.wikipedia.org/wiki/Electrical_reactance#Inductive_reactance)
+> Calculates the ratio of ionized to neutral atoms hitting a hot surface. [Read more](https://en.wikipedia.org/wiki/Saha%E2%80%93Langmuir_equation)
 
 
 
