@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large \frac{n_+}{n_0} = \frac{g_+}{g_0} \exp\left(\frac{W - I}{k_B T}\right)
+\large \iiint_V (\nabla \cdot \mathbf{F}) dV = \iint_S (\mathbf{F} \cdot \mathbf{n}) dS
 $$
 
-Meghnad Saha & Irving Langmuir - **Saha-Langmuir Equation** (1925)
+Carl Friedrich Gauss - **Divergence Theorem** (1813)
 
 > [!NOTE]
-> Calculates the ratio of ionized to neutral atoms hitting a hot surface. [Read more](https://en.wikipedia.org/wiki/Saha%E2%80%93Langmuir_equation)
+> Relates the flux of a vector field through a closed surface to the divergence of the field in the volume enclosed. [Read more](https://en.wikipedia.org/wiki/Divergence_theorem)
 
 
 
