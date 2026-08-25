@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large \iiint_V (\nabla \cdot \mathbf{F}) dV = \iint_S (\mathbf{F} \cdot \mathbf{n}) dS
+\large a^n + b^n = c^n \quad (n > 2)
 $$
 
-Carl Friedrich Gauss - **Divergence Theorem** (1813)
+Pierre de Fermat - **Fermat's Last Theorem** (1637)
 
 > [!NOTE]
-> Relates the flux of a vector field through a closed surface to the divergence of the field in the volume enclosed. [Read more](https://en.wikipedia.org/wiki/Divergence_theorem)
+> States that no three positive integers a, b, and c satisfy the equation for any integer value of n greater than 2. [Read more](https://en.wikipedia.org/wiki/Fermat%27s_Last_Theorem)
 
 
 
