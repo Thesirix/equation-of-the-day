@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large a^n + b^n = c^n \quad (n > 2)
+\large \text{St} = \frac{f L}{U}
 $$
 
-Pierre de Fermat - **Fermat's Last Theorem** (1637)
+Vincenc Strouhal - **Strouhal Number** (1878)
 
 > [!NOTE]
-> States that no three positive integers a, b, and c satisfy the equation for any integer value of n greater than 2. [Read more](https://en.wikipedia.org/wiki/Fermat%27s_Last_Theorem)
+> A dimensionless number describing oscillating flow mechanisms, such as vortex shedding. [Read more](https://en.wikipedia.org/wiki/Strouhal_number)
 
 
 
