@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large \text{St} = \frac{f L}{U}
+\large |\nabla S|^2 = n^2
 $$
 
-Vincenc Strouhal - **Strouhal Number** (1878)
+William Rowan Hamilton - **Eikonal Equation** (1832)
 
 > [!NOTE]
-> A dimensionless number describing oscillating flow mechanisms, such as vortex shedding. [Read more](https://en.wikipedia.org/wiki/Strouhal_number)
+> A non-linear partial differential equation encountered in problems of wave propagation and geometrical optics. [Read more](https://en.wikipedia.org/wiki/Eikonal_equation)
 
 
 
