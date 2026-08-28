@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large |\nabla S|^2 = n^2
+\large P(x_i) = |\langle x_i | \psi \rangle|^2
 $$
 
-William Rowan Hamilton - **Eikonal Equation** (1832)
+Max Born - **Born Rule** (1926)
 
 > [!NOTE]
-> A non-linear partial differential equation encountered in problems of wave propagation and geometrical optics. [Read more](https://en.wikipedia.org/wiki/Eikonal_equation)
+> Gives the probability that a measurement of a quantum system will yield a given result. [Read more](https://en.wikipedia.org/wiki/Born_rule)
 
 
 
