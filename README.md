@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large P(x_i) = |\langle x_i | \psi \rangle|^2
+\large T^2 = \frac{4\pi^2}{GM} r^3
 $$
 
-Max Born - **Born Rule** (1926)
+Johannes Kepler - **Kepler's Third Law** (1619)
 
 > [!NOTE]
-> Gives the probability that a measurement of a quantum system will yield a given result. [Read more](https://en.wikipedia.org/wiki/Born_rule)
+> The square of a planet's orbital period is proportional to the cube of the semi-major axis of its orbit. [Read more](https://en.wikipedia.org/wiki/Kepler%27s_laws_of_planetary_motion)
 
 
 
