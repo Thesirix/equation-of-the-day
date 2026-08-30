@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large T^2 = \frac{4\pi^2}{GM} r^3
+\large Z = \lim_{n \to \infty} \frac{\sqrt{n}(\bar{X}_n - \mu)}{\sigma} \sim \mathcal{N}(0, 1)
 $$
 
-Johannes Kepler - **Kepler's Third Law** (1619)
+Pierre-Simon Laplace - **Central Limit Theorem** (1810)
 
 > [!NOTE]
-> The square of a planet's orbital period is proportional to the cube of the semi-major axis of its orbit. [Read more](https://en.wikipedia.org/wiki/Kepler%27s_laws_of_planetary_motion)
+> Establishes that the sum of independent random variables tends toward a normal distribution, regardless of the original distribution. [Read more](https://en.wikipedia.org/wiki/Central_limit_theorem)
 
 
 
