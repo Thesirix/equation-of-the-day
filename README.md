@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large Z = \lim_{n \to \infty} \frac{\sqrt{n}(\bar{X}_n - \mu)}{\sigma} \sim \mathcal{N}(0, 1)
+\large D_{KL}(P || Q) = \sum_{x\in\mathcal{X}} P(x) \log\left(\frac{P(x)}{Q(x)}\right)
 $$
 
-Pierre-Simon Laplace - **Central Limit Theorem** (1810)
+Solomon Kullback & Richard Leibler - **Kullback-Leibler Divergence** (1951)
 
 > [!NOTE]
-> Establishes that the sum of independent random variables tends toward a normal distribution, regardless of the original distribution. [Read more](https://en.wikipedia.org/wiki/Central_limit_theorem)
+> A measure of how one probability distribution diverges from a second, expected probability distribution. [Read more](https://en.wikipedia.org/wiki/Kullback%E2%80%93Leibler_divergence)
 
 
 
