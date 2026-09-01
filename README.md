@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large D_{KL}(P || Q) = \sum_{x\in\mathcal{X}} P(x) \log\left(\frac{P(x)}{Q(x)}\right)
+\large \Delta P = \frac{8 \mu L Q}{\pi R^4}
 $$
 
-Solomon Kullback & Richard Leibler - **Kullback-Leibler Divergence** (1951)
+Jean Léonard Marie Poiseuille - **Poiseuille's Law** (1840)
 
 > [!NOTE]
-> A measure of how one probability distribution diverges from a second, expected probability distribution. [Read more](https://en.wikipedia.org/wiki/Kullback%E2%80%93Leibler_divergence)
+> Gives the pressure drop in an incompressible and Newtonian fluid in laminar flow flowing through a long cylindrical pipe. [Read more](https://en.wikipedia.org/wiki/Hagen%E2%80%93Poiseuille_equation)
 
 
 
