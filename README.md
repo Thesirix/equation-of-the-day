@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large \Delta P = \frac{8 \mu L Q}{\pi R^4}
+\large Utility = \frac{E \times V}{\Gamma \times D}
 $$
 
-Jean Léonard Marie Poiseuille - **Poiseuille's Law** (1840)
+Piers Steel - **Procrastination Equation** (2007)
 
 > [!NOTE]
-> Gives the pressure drop in an incompressible and Newtonian fluid in laminar flow flowing through a long cylindrical pipe. [Read more](https://en.wikipedia.org/wiki/Hagen%E2%80%93Poiseuille_equation)
+> A mathematical model of motivation that explains why we delay tasks based on expectancy, value, impulsiveness, and delay. [Read more](https://en.wikipedia.org/wiki/Procrastination)
 
 
 
