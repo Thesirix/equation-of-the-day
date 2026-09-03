@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large Utility = \frac{E \times V}{\Gamma \times D}
+\large \mathbf{V}_g = \frac{1}{\rho f} \mathbf{k} \times \nabla P
 $$
 
-Piers Steel - **Procrastination Equation** (2007)
+C. H. D. Buys Ballot - **Geostrophic Wind Equation** (1857)
 
 > [!NOTE]
-> A mathematical model of motivation that explains why we delay tasks based on expectancy, value, impulsiveness, and delay. [Read more](https://en.wikipedia.org/wiki/Procrastination)
+> Describes the theoretical wind that would result from an exact balance between the Coriolis force and the pressure gradient force. [Read more](https://en.wikipedia.org/wiki/Geostrophic_wind)
 
 
 
