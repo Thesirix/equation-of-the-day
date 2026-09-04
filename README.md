@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large \mathbf{V}_g = \frac{1}{\rho f} \mathbf{k} \times \nabla P
+\large M_J = \left( \frac{5 k_B T}{G m} \right)^{3/2} \left( \frac{3}{4 \pi \rho} \right)^{1/2}
 $$
 
-C. H. D. Buys Ballot - **Geostrophic Wind Equation** (1857)
+James Jeans - **Jeans Mass** (1902)
 
 > [!NOTE]
-> Describes the theoretical wind that would result from an exact balance between the Coriolis force and the pressure gradient force. [Read more](https://en.wikipedia.org/wiki/Geostrophic_wind)
+> The critical mass that an interstellar cloud must have to undergo gravitational collapse and form a star. [Read more](https://en.wikipedia.org/wiki/Jeans_instability)
 
 
 
