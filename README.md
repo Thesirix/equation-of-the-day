@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large M_J = \left( \frac{5 k_B T}{G m} \right)^{3/2} \left( \frac{3}{4 \pi \rho} \right)^{1/2}
+\large V_R(n) = K n^\beta
 $$
 
-James Jeans - **Jeans Mass** (1902)
+Harold Stanley Heaps - **Heaps' Law** (1978)
 
 > [!NOTE]
-> The critical mass that an interstellar cloud must have to undergo gravitational collapse and form a star. [Read more](https://en.wikipedia.org/wiki/Jeans_instability)
+> An empirical law in linguistics describing the portion of a vocabulary which is used in a document as a function of the document's length. [Read more](https://en.wikipedia.org/wiki/Heaps%27_law)
 
 
 
