@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large V_R(n) = K n^\beta
+\large E^2 = (pc)^2 + (m_0 c^2)^2
 $$
 
-Harold Stanley Heaps - **Heaps' Law** (1978)
+Albert Einstein - **Energy-Momentum Relation** (1905)
 
 > [!NOTE]
-> An empirical law in linguistics describing the portion of a vocabulary which is used in a document as a function of the document's length. [Read more](https://en.wikipedia.org/wiki/Heaps%27_law)
+> The relativistic equation relating the total energy, invariant mass, and momentum of a particle. [Read more](https://en.wikipedia.org/wiki/Energy%E2%80%93momentum_relation)
 
 
 
