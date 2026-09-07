@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large E^2 = (pc)^2 + (m_0 c^2)^2
+\large \lambda_L = \sqrt{\frac{m}{\mu_0 n_s e^2}}
 $$
 
-Albert Einstein - **Energy-Momentum Relation** (1905)
+Fritz & Heinz London - **London Penetration Depth** (1935)
 
 > [!NOTE]
-> The relativistic equation relating the total energy, invariant mass, and momentum of a particle. [Read more](https://en.wikipedia.org/wiki/Energy%E2%80%93momentum_relation)
+> The distance a magnetic field penetrates into a superconductor before decaying exponentially to zero. [Read more](https://en.wikipedia.org/wiki/London_penetration_depth)
 
 
 
