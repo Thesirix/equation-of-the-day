@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large \lambda_L = \sqrt{\frac{m}{\mu_0 n_s e^2}}
+\large \Delta^* \psi = -\mu_0 R^2 p'(\psi) - F(\psi)F'(\psi)
 $$
 
-Fritz & Heinz London - **London Penetration Depth** (1935)
+Harold Grad & Vitalii Shafranov - **Grad-Shafranov Equation** (1958)
 
 > [!NOTE]
-> The distance a magnetic field penetrates into a superconductor before decaying exponentially to zero. [Read more](https://en.wikipedia.org/wiki/London_penetration_depth)
+> The equilibrium equation in magnetohydrodynamics for a two-dimensional plasma, fundamental for tokamak fusion reactors. [Read more](https://en.wikipedia.org/wiki/Grad%E2%80%93Shafranov_equation)
 
 
 
