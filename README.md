@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large \Delta^* \psi = -\mu_0 R^2 p'(\psi) - F(\psi)F'(\psi)
+\large T = a + b \log_2 \left( 1 + \frac{D}{W} \right)
 $$
 
-Harold Grad & Vitalii Shafranov - **Grad-Shafranov Equation** (1958)
+Paul Fitts - **Fitts's Law (HCI)** (1954)
 
 > [!NOTE]
-> The equilibrium equation in magnetohydrodynamics for a two-dimensional plasma, fundamental for tokamak fusion reactors. [Read more](https://en.wikipedia.org/wiki/Grad%E2%80%93Shafranov_equation)
+> Predicts the time required to rapidly move to a target area, a staple in User Interface (UI) design. [Read more](https://en.wikipedia.org/wiki/Fitts%27s_law)
 
 
 
