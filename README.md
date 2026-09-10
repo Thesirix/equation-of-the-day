@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large T = a + b \log_2 \left( 1 + \frac{D}{W} \right)
+\large \text{Ra} = \frac{g \beta (T_s - T_\infty) L^3}{\nu \alpha}
 $$
 
-Paul Fitts - **Fitts's Law (HCI)** (1954)
+Lord Rayleigh - **Rayleigh Number** (1916)
 
 > [!NOTE]
-> Predicts the time required to rapidly move to a target area, a staple in User Interface (UI) design. [Read more](https://en.wikipedia.org/wiki/Fitts%27s_law)
+> A dimensionless number associated with buoyancy-driven flow, determining if heat transfer is primarily in the form of conduction or convection. [Read more](https://en.wikipedia.org/wiki/Rayleigh_number)
 
 
 
