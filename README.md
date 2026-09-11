@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large \text{Ra} = \frac{g \beta (T_s - T_\infty) L^3}{\nu \alpha}
+\large s = (B^a) \pmod p = (A^b) \pmod p
 $$
 
-Lord Rayleigh - **Rayleigh Number** (1916)
+Whitfield Diffie & Martin Hellman - **Diffie-Hellman Key Exchange** (1976)
 
 > [!NOTE]
-> A dimensionless number associated with buoyancy-driven flow, determining if heat transfer is primarily in the form of conduction or convection. [Read more](https://en.wikipedia.org/wiki/Rayleigh_number)
+> Allows two parties that have no prior knowledge of each other to jointly establish a shared secret key over an insecure channel. [Read more](https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange)
 
 
 
