@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large s = (B^a) \pmod p = (A^b) \pmod p
+\large 2 \langle T \rangle + \langle V \rangle = 0
 $$
 
-Whitfield Diffie & Martin Hellman - **Diffie-Hellman Key Exchange** (1976)
+Rudolf Clausius - **Virial Theorem** (1870)
 
 > [!NOTE]
-> Allows two parties that have no prior knowledge of each other to jointly establish a shared secret key over an insecure channel. [Read more](https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange)
+> Relates the average over time of the total kinetic energy of a stable system to the average over time of the total potential energy. [Read more](https://en.wikipedia.org/wiki/Virial_theorem)
 
 
 
