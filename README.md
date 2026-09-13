@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large 2 \langle T \rangle + \langle V \rangle = 0
+\large N(t) = N_0 \exp\left( \ln\left(\frac{N_\infty}{N_0}\right) (1 - e^{-at}) \right)
 $$
 
-Rudolf Clausius - **Virial Theorem** (1870)
+Benjamin Gompertz - **Gompertz Curve for Tumor Growth** (1825)
 
 > [!NOTE]
-> Relates the average over time of the total kinetic energy of a stable system to the average over time of the total potential energy. [Read more](https://en.wikipedia.org/wiki/Virial_theorem)
+> Adapted for oncology, it models how the growth rate of a tumor slows down as the tumor mass gets larger due to lack of nutrients. [Read more](https://en.wikipedia.org/wiki/Gompertz_function#Tumor_growth)
 
 
 
