@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large N(t) = N_0 \exp\left( \ln\left(\frac{N_\infty}{N_0}\right) (1 - e^{-at}) \right)
+\large \frac{\text{Rate}_1}{\text{Rate}_2} = \sqrt{\frac{M_2}{M_1}}
 $$
 
-Benjamin Gompertz - **Gompertz Curve for Tumor Growth** (1825)
+Thomas Graham - **Graham's Law** (1848)
 
 > [!NOTE]
-> Adapted for oncology, it models how the growth rate of a tumor slows down as the tumor mass gets larger due to lack of nutrients. [Read more](https://en.wikipedia.org/wiki/Gompertz_function#Tumor_growth)
+> States that the rate of effusion of a gas is inversely proportional to the square root of the mass of its particles. [Read more](https://en.wikipedia.org/wiki/Graham%27s_law)
 
 
 
