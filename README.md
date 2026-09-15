@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large \frac{\text{Rate}_1}{\text{Rate}_2} = \sqrt{\frac{M_2}{M_1}}
+\large \text{We} = \frac{\rho v^2 L}{\sigma}
 $$
 
-Thomas Graham - **Graham's Law** (1848)
+Moritz Weber - **Weber Number** (1930)
 
 > [!NOTE]
-> States that the rate of effusion of a gas is inversely proportional to the square root of the mass of its particles. [Read more](https://en.wikipedia.org/wiki/Graham%27s_law)
+> A dimensionless number in fluid mechanics useful for analyzing fluid flows where there is an interface between two different fluids. [Read more](https://en.wikipedia.org/wiki/Weber_number)
 
 
 
