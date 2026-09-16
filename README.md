@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large \text{We} = \frac{\rho v^2 L}{\sigma}
+\large N = R_* \cdot f_p \cdot n_e \cdot f_l \cdot f_i \cdot f_c \cdot L
 $$
 
-Moritz Weber - **Weber Number** (1930)
+Frank Drake - **Drake Equation** (1961)
 
 > [!NOTE]
-> A dimensionless number in fluid mechanics useful for analyzing fluid flows where there is an interface between two different fluids. [Read more](https://en.wikipedia.org/wiki/Weber_number)
+> A probabilistic argument used to estimate the number of active, communicative extraterrestrial civilizations in the Milky Way. [Read more](https://en.wikipedia.org/wiki/Drake_equation)
 
 
 
