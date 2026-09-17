@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large N = R_* \cdot f_p \cdot n_e \cdot f_l \cdot f_i \cdot f_c \cdot L
+\large a^{\varphi(n)} \equiv 1 \pmod n
 $$
 
-Frank Drake - **Drake Equation** (1961)
+Leonhard Euler - **Euler's Totient Theorem** (1736)
 
 > [!NOTE]
-> A probabilistic argument used to estimate the number of active, communicative extraterrestrial civilizations in the Milky Way. [Read more](https://en.wikipedia.org/wiki/Drake_equation)
+> A fundamental theorem in number theory, generalizing Fermat's Little Theorem, heavily used in RSA encryption. [Read more](https://en.wikipedia.org/wiki/Euler%27s_totient_theorem)
 
 
 
