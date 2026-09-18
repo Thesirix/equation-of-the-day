@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large a^{\varphi(n)} \equiv 1 \pmod n
+\large u_r \approx \frac{D}{R - r}
 $$
 
-Leonhard Euler - **Euler's Totient Theorem** (1736)
+Robert Deegan - **Coffee Ring Effect** (1997)
 
 > [!NOTE]
-> A fundamental theorem in number theory, generalizing Fermat's Little Theorem, heavily used in RSA encryption. [Read more](https://en.wikipedia.org/wiki/Euler%27s_totient_theorem)
+> The fluid dynamics equation explaining why coffee stains are darker at the edges than in the middle. [Read more](https://en.wikipedia.org/wiki/Coffee_ring_effect)
 
 
 
