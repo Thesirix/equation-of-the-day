@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large u_r \approx \frac{D}{R - r}
+\large \delta \mathcal{S} = \delta \int_{t_1}^{t_2} L(q, \dot{q}, t) dt = 0
 $$
 
-Robert Deegan - **Coffee Ring Effect** (1997)
+William Rowan Hamilton - **Hamilton's Principle of Least Action** (1834)
 
 > [!NOTE]
-> The fluid dynamics equation explaining why coffee stains are darker at the edges than in the middle. [Read more](https://en.wikipedia.org/wiki/Coffee_ring_effect)
+> States that the true evolution of a physical system is a stationary point of the action functional. [Read more](https://en.wikipedia.org/wiki/Principle_of_least_action)
 
 
 
