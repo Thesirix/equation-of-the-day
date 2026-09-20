@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large \delta \mathcal{S} = \delta \int_{t_1}^{t_2} L(q, \dot{q}, t) dt = 0
+\large \gamma = \frac{1}{\sqrt{1 - \frac{v^2}{c^2}}}
 $$
 
-William Rowan Hamilton - **Hamilton's Principle of Least Action** (1834)
+Hendrik Lorentz - **Lorentz Factor** (1892)
 
 > [!NOTE]
-> States that the true evolution of a physical system is a stationary point of the action functional. [Read more](https://en.wikipedia.org/wiki/Principle_of_least_action)
+> The factor by which time, length, and relativistic mass change for an object while that object is moving. [Read more](https://en.wikipedia.org/wiki/Lorentz_factor)
 
 
 
