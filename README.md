@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large \gamma = \frac{1}{\sqrt{1 - \frac{v^2}{c^2}}}
+\large -\frac{\partial u}{\partial t} = \nabla \cdot \mathbf{S} + \mathbf{J} \cdot \mathbf{E}
 $$
 
-Hendrik Lorentz - **Lorentz Factor** (1892)
+John Henry Poynting - **Poynting's Theorem** (1884)
 
 > [!NOTE]
-> The factor by which time, length, and relativistic mass change for an object while that object is moving. [Read more](https://en.wikipedia.org/wiki/Lorentz_factor)
+> A statement of conservation of energy for the electromagnetic field. [Read more](https://en.wikipedia.org/wiki/Poynting%27s_theorem)
 
 
 
