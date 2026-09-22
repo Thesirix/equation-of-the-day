@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large -\frac{\partial u}{\partial t} = \nabla \cdot \mathbf{S} + \mathbf{J} \cdot \mathbf{E}
+\large R \ddot{R} + \frac{3}{2}\dot{R}^2 = \frac{1}{\rho_L} (p_B - p_\infty)
 $$
 
-John Henry Poynting - **Poynting's Theorem** (1884)
+Lord Rayleigh & Milton S. Plesset - **Rayleigh-Plesset Equation** (1917)
 
 > [!NOTE]
-> A statement of conservation of energy for the electromagnetic field. [Read more](https://en.wikipedia.org/wiki/Poynting%27s_theorem)
+> An ordinary differential equation which governs the dynamics of a spherical bubble in an infinite body of liquid. [Read more](https://en.wikipedia.org/wiki/Rayleigh%E2%80%93Plesset_equation)
 
 
 
