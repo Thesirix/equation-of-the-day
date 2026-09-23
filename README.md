@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large R \ddot{R} + \frac{3}{2}\dot{R}^2 = \frac{1}{\rho_L} (p_B - p_\infty)
+\large t = \int_{x_1}^{x_2} \sqrt{\frac{1 + (y')^2}{2gy}} dx
 $$
 
-Lord Rayleigh & Milton S. Plesset - **Rayleigh-Plesset Equation** (1917)
+Johann Bernoulli - **Brachistochrone Curve Time** (1696)
 
 > [!NOTE]
-> An ordinary differential equation which governs the dynamics of a spherical bubble in an infinite body of liquid. [Read more](https://en.wikipedia.org/wiki/Rayleigh%E2%80%93Plesset_equation)
+> The integral representing the time taken for a bead to slide down a frictionless wire between two points; solving it yields a cycloid. [Read more](https://en.wikipedia.org/wiki/Brachistochrone_curve)
 
 
 
