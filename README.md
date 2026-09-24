@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large t = \int_{x_1}^{x_2} \sqrt{\frac{1 + (y')^2}{2gy}} dx
+\large \psi_{\mathbf{k}}(\mathbf{r}) = e^{i\mathbf{k}\cdot\mathbf{r}} u_{\mathbf{k}}(\mathbf{r})
 $$
 
-Johann Bernoulli - **Brachistochrone Curve Time** (1696)
+Felix Bloch - **Bloch's Theorem** (1929)
 
 > [!NOTE]
-> The integral representing the time taken for a bead to slide down a frictionless wire between two points; solving it yields a cycloid. [Read more](https://en.wikipedia.org/wiki/Brachistochrone_curve)
+> Describes the energy eigenstates for an electron in a crystal lattice. [Read more](https://en.wikipedia.org/wiki/Bloch%27s_theorem)
 
 
 
