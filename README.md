@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large \psi_{\mathbf{k}}(\mathbf{r}) = e^{i\mathbf{k}\cdot\mathbf{r}} u_{\mathbf{k}}(\mathbf{r})
+\large N = 8! \cdot 3^7 \cdot \frac{12!}{2} \cdot 2^{10}
 $$
 
-Felix Bloch - **Bloch's Theorem** (1929)
+David Singmaster - **Complexity of a Rubik's Cube** (1981)
 
 > [!NOTE]
-> Describes the energy eigenstates for an electron in a crystal lattice. [Read more](https://en.wikipedia.org/wiki/Bloch%27s_theorem)
+> The formula calculating the total number of possible permutations for a standard 3x3x3 Rubik's Cube. [Read more](https://en.wikipedia.org/wiki/Rubik%27s_Cube#Permutations)
 
 
 
