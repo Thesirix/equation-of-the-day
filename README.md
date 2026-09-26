@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large N = 8! \cdot 3^7 \cdot \frac{12!}{2} \cdot 2^{10}
+\large ds^2 = -\left(1 - \frac{r_s}{r}\right) c^2 dt^2 + \left(1 - \frac{r_s}{r}\right)^{-1} dr^2 + r^2 d\Omega^2
 $$
 
-David Singmaster - **Complexity of a Rubik's Cube** (1981)
+Karl Schwarzschild - **Schwarzschild Metric** (1916)
 
 > [!NOTE]
-> The formula calculating the total number of possible permutations for a standard 3x3x3 Rubik's Cube. [Read more](https://en.wikipedia.org/wiki/Rubik%27s_Cube#Permutations)
+> The exact solution to Einstein's field equations that describes the gravitational field outside a spherical, non-rotating mass like a star or black hole. [Read more](https://en.wikipedia.org/wiki/Schwarzschild_metric)
 
 
 
