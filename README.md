@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large ds^2 = -\left(1 - \frac{r_s}{r}\right) c^2 dt^2 + \left(1 - \frac{r_s}{r}\right)^{-1} dr^2 + r^2 d\Omega^2
+\large \chi_1(\omega) = \frac{1}{\pi} \mathcal{P} \int_{-\infty}^\infty \frac{\chi_2(\omega')}{\omega' - \omega} d\omega'
 $$
 
-Karl Schwarzschild - **Schwarzschild Metric** (1916)
+Ralph Kronig & Hendrik Kramers - **Kramers-Kronig Relations** (1927)
 
 > [!NOTE]
-> The exact solution to Einstein's field equations that describes the gravitational field outside a spherical, non-rotating mass like a star or black hole. [Read more](https://en.wikipedia.org/wiki/Schwarzschild_metric)
+> Bidirectional mathematical relations connecting the real and imaginary parts of any complex function that is analytic in the upper half-plane. [Read more](https://en.wikipedia.org/wiki/Kramers%E2%80%93Kronig_relations)
 
 
 
