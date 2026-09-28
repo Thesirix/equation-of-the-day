@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large \chi_1(\omega) = \frac{1}{\pi} \mathcal{P} \int_{-\infty}^\infty \frac{\chi_2(\omega')}{\omega' - \omega} d\omega'
+\large H = \sum_{i=1}^N s_i^2
 $$
 
-Ralph Kronig & Hendrik Kramers - **Kramers-Kronig Relations** (1927)
+Orris C. Herfindahl & Albert O. Hirschman - **Herfindahl-Hirschman Index (HHI)** (1950)
 
 > [!NOTE]
-> Bidirectional mathematical relations connecting the real and imaginary parts of any complex function that is analytic in the upper half-plane. [Read more](https://en.wikipedia.org/wiki/Kramers%E2%80%93Kronig_relations)
+> A commonly accepted measure of market concentration in economics. [Read more](https://en.wikipedia.org/wiki/Herfindahl%E2%80%93Hirschman_Index)
 
 
 
