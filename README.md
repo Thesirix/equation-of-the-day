@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large H = \sum_{i=1}^N s_i^2
+\large \lim_{t \to \infty} S = S_{\max}
 $$
 
-Orris C. Herfindahl & Albert O. Hirschman - **Herfindahl-Hirschman Index (HHI)** (1950)
+Lord Kelvin - **Heat Death of the Universe (Entropy Max)** (1852)
 
 > [!NOTE]
-> A commonly accepted measure of market concentration in economics. [Read more](https://en.wikipedia.org/wiki/Herfindahl%E2%80%93Hirschman_Index)
+> The thermodynamic limit where the universe reaches a state of maximum entropy and no more work can be performed. [Read more](https://en.wikipedia.org/wiki/Heat_death_of_the_universe)
 
 
 
