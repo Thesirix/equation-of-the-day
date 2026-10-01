@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large \lim_{t \to \infty} S = S_{\max}
+\large F(x) = 1 - \left(\frac{x_m}{x}\right)^\alpha
 $$
 
-Lord Kelvin - **Heat Death of the Universe (Entropy Max)** (1852)
+Vilfredo Pareto - **Pareto Distribution** (1896)
 
 > [!NOTE]
-> The thermodynamic limit where the universe reaches a state of maximum entropy and no more work can be performed. [Read more](https://en.wikipedia.org/wiki/Heat_death_of_the_universe)
+> The mathematical formulation of the '80/20 rule', describing the unequal distribution of wealth, city sizes, and file sizes on the internet. [Read more](https://en.wikipedia.org/wiki/Pareto_distribution)
 
 
 
