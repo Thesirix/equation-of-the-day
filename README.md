@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large F(x) = 1 - \left(\frac{x_m}{x}\right)^\alpha
+\large I = \frac{2}{5} m r^2
 $$
 
-Vilfredo Pareto - **Pareto Distribution** (1896)
+Leonhard Euler - **Moment of Inertia (Solid Sphere)** (1765)
 
 > [!NOTE]
-> The mathematical formulation of the '80/20 rule', describing the unequal distribution of wealth, city sizes, and file sizes on the internet. [Read more](https://en.wikipedia.org/wiki/Pareto_distribution)
+> Calculates the rotational inertia of a uniform solid sphere about an axis through its center. [Read more](https://en.wikipedia.org/wiki/List_of_moments_of_inertia)
 
 
 
