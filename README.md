@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large I = \frac{2}{5} m r^2
+\large \Omega_{LT} = \frac{2 G J}{c^2 r^3}
 $$
 
-Leonhard Euler - **Moment of Inertia (Solid Sphere)** (1765)
+Josef Lense & Hans Thirring - **Lense-Thirring Precession (Frame-Dragging)** (1918)
 
 > [!NOTE]
-> Calculates the rotational inertia of a uniform solid sphere about an axis through its center. [Read more](https://en.wikipedia.org/wiki/List_of_moments_of_inertia)
+> A relativistic correction to the precession of a gyroscope near a massive rotating body, literally twisting spacetime. [Read more](https://en.wikipedia.org/wiki/Lense%E2%80%93Thirring_precession)
 
 
 
