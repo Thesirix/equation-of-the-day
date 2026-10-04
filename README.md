@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large \Omega_{LT} = \frac{2 G J}{c^2 r^3}
+\large \chi = \frac{C}{T - T_c}
 $$
 
-Josef Lense & Hans Thirring - **Lense-Thirring Precession (Frame-Dragging)** (1918)
+Pierre Curie & Pierre-Ernest Weiss - **Curie-Weiss Law** (1907)
 
 > [!NOTE]
-> A relativistic correction to the precession of a gyroscope near a massive rotating body, literally twisting spacetime. [Read more](https://en.wikipedia.org/wiki/Lense%E2%80%93Thirring_precession)
+> Describes the magnetic susceptibility of a ferromagnet in the paramagnetic region above the Curie point. [Read more](https://en.wikipedia.org/wiki/Curie%E2%80%93Weiss_law)
 
 
 
