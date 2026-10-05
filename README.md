@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large \chi = \frac{C}{T - T_c}
+\large Q = -\frac{kA}{\mu} \frac{\Delta P}{L}
 $$
 
-Pierre Curie & Pierre-Ernest Weiss - **Curie-Weiss Law** (1907)
+Henry Darcy - **Darcy's Law** (1856)
 
 > [!NOTE]
-> Describes the magnetic susceptibility of a ferromagnet in the paramagnetic region above the Curie point. [Read more](https://en.wikipedia.org/wiki/Curie%E2%80%93Weiss_law)
+> Describes the flow of a fluid through a porous medium. [Read more](https://en.wikipedia.org/wiki/Darcy%27s_law)
 
 
 
