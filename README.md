@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large Q = -\frac{kA}{\mu} \frac{\Delta P}{L}
+\large h = \frac{R T}{M g} \ln\left(\frac{P_0}{P}\right)
 $$
 
-Henry Darcy - **Darcy's Law** (1856)
+Meteorological Standard - **Hypsometric Equation** (1900)
 
 > [!NOTE]
-> Describes the flow of a fluid through a porous medium. [Read more](https://en.wikipedia.org/wiki/Darcy%27s_law)
+> Relates an atmospheric pressure ratio to the equivalent thickness of an atmospheric layer under the assumptions of constant temperature and gravity. [Read more](https://en.wikipedia.org/wiki/Hypsometric_equation)
 
 
 
