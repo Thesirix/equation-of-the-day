@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large h = \frac{R T}{M g} \ln\left(\frac{P_0}{P}\right)
+\large A \approx 5.288 V^{2/3}
 $$
 
-Meteorological Standard - **Hypsometric Equation** (1900)
+Denis Weaire & Robert Phelan - **The Weaire-Phelan Structure (Foam)** (1993)
 
 > [!NOTE]
-> Relates an atmospheric pressure ratio to the equivalent thickness of an atmospheric layer under the assumptions of constant temperature and gravity. [Read more](https://en.wikipedia.org/wiki/Hypsometric_equation)
+> The most efficient way to partition space into cells of equal volume with the least surface area (the geometry of bubbles). [Read more](https://en.wikipedia.org/wiki/Weaire%E2%80%93Phelan_structure)
 
 
 
