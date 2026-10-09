@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large \frac{\partial V}{\partial t} + \frac{1}{2}\sigma^2 S^2 \frac{\partial^2 V}{\partial S^2} + rS\frac{\partial V}{\partial S} - rV = 0
+\large \sigma_c = \sqrt{\frac{2E\gamma}{\pi a}}
 $$
 
-Fischer Black & Myron Scholes - **Black-Scholes Equation** (1973)
+Alan Arnold Griffith - **Griffith Criterion** (1920)
 
 > [!NOTE]
-> A partial differential equation governing the price evolution of options, foundational in modern financial theory. [Read more](https://en.wikipedia.org/wiki/Black%E2%80%93Scholes_model)
+> The fundamental thermodynamic condition for crack propagation in fracture mechanics. [Read more](https://en.wikipedia.org/wiki/Fracture_mechanics#Griffith's_criterion)
 
 
 
