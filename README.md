@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large \sigma_c = \sqrt{\frac{2E\gamma}{\pi a}}
+\large \theta_B = \arctan\left(\frac{n_2}{n_1}\right)
 $$
 
-Alan Arnold Griffith - **Griffith Criterion** (1920)
+David Brewster - **Brewster's Angle** (1815)
 
 > [!NOTE]
-> The fundamental thermodynamic condition for crack propagation in fracture mechanics. [Read more](https://en.wikipedia.org/wiki/Fracture_mechanics#Griffith's_criterion)
+> An angle of incidence at which light with a particular polarization is perfectly transmitted through a transparent dielectric surface, with no reflection. [Read more](https://en.wikipedia.org/wiki/Brewster%27s_angle)
 
 
 
