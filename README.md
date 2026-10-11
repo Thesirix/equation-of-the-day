@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large \theta_B = \arctan\left(\frac{n_2}{n_1}\right)
+\large \sigma = \frac{n e^2 \tau}{m}
 $$
 
-David Brewster - **Brewster's Angle** (1815)
+Paul Drude - **Drude Model for Electrical Conductivity** (1900)
 
 > [!NOTE]
-> An angle of incidence at which light with a particular polarization is perfectly transmitted through a transparent dielectric surface, with no reflection. [Read more](https://en.wikipedia.org/wiki/Brewster%27s_angle)
+> Explains the transport properties of electrons in materials, especially metals, using kinetic theory. [Read more](https://en.wikipedia.org/wiki/Drude_model)
 
 
 
