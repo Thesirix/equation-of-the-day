@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large \sigma = \frac{n e^2 \tau}{m}
+\large S = k_B N \left[ \ln\left( \frac{V}{N} \left(\frac{4\pi m E}{3h^2 N}\right)^{3/2} \right) + \frac{5}{2} \right]
 $$
 
-Paul Drude - **Drude Model for Electrical Conductivity** (1900)
+Otto Sackur & Hugo Tetrode - **Sackur-Tetrode Equation** (1912)
 
 > [!NOTE]
-> Explains the transport properties of electrons in materials, especially metals, using kinetic theory. [Read more](https://en.wikipedia.org/wiki/Drude_model)
+> Expresses the entropy of a monatomic classical ideal gas, resolving the Gibbs paradox. [Read more](https://en.wikipedia.org/wiki/Sackur%E2%80%93Tetrode_equation)
 
 
 
