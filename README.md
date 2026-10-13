@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large S = k_B N \left[ \ln\left( \frac{V}{N} \left(\frac{4\pi m E}{3h^2 N}\right)^{3/2} \right) + \frac{5}{2} \right]
+\large \frac{dV}{dt} = V - \frac{V^3}{3} - W + I
 $$
 
-Otto Sackur & Hugo Tetrode - **Sackur-Tetrode Equation** (1912)
+Richard FitzHugh & J. Nagumo - **FitzHugh-Nagumo Model** (1961)
 
 > [!NOTE]
-> Expresses the entropy of a monatomic classical ideal gas, resolving the Gibbs paradox. [Read more](https://en.wikipedia.org/wiki/Sackur%E2%80%93Tetrode_equation)
+> A simplified 2D version of the Hodgkin-Huxley model describing how an action potential (a spike) travels through a neuron. [Read more](https://en.wikipedia.org/wiki/FitzHugh%E2%80%93Nagumo_model)
 
 
 
