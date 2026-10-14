@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large \frac{dV}{dt} = V - \frac{V^3}{3} - W + I
+\large E(k) = C \varepsilon^{2/3} k^{-5/3}
 $$
 
-Richard FitzHugh & J. Nagumo - **FitzHugh-Nagumo Model** (1961)
+Andrey Kolmogorov - **Kolmogorov's 5/3 Law (Energy Spectrum)** (1941)
 
 > [!NOTE]
-> A simplified 2D version of the Hodgkin-Huxley model describing how an action potential (a spike) travels through a neuron. [Read more](https://en.wikipedia.org/wiki/FitzHugh%E2%80%93Nagumo_model)
+> Predicts the distribution of kinetic energy across different spatial scales in fully developed turbulence. [Read more](https://en.wikipedia.org/wiki/Kolmogorov%27s_theory_of_turbulence)
 
 
 
