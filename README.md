@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large E(k) = C \varepsilon^{2/3} k^{-5/3}
+\large Y = \frac{C}{X^n}
 $$
 
-Andrey Kolmogorov - **Kolmogorov's 5/3 Law (Energy Spectrum)** (1941)
+Alfred J. Lotka - **Lotka's Law** (1926)
 
 > [!NOTE]
-> Predicts the distribution of kinetic energy across different spatial scales in fully developed turbulence. [Read more](https://en.wikipedia.org/wiki/Kolmogorov%27s_theory_of_turbulence)
+> Describes the frequency of publication by authors in any given field, stating that the number of authors making n contributions is about 1/n^2 of those making one. [Read more](https://en.wikipedia.org/wiki/Lotka%27s_law)
 
 
 
