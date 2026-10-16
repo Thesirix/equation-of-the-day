@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large Y = \frac{C}{X^n}
+\large v_t = \sqrt{\frac{2mg}{\rho A C_D}}
 $$
 
-Alfred J. Lotka - **Lotka's Law** (1926)
+Isaac Newton - **Terminal Velocity** (1687)
 
 > [!NOTE]
-> Describes the frequency of publication by authors in any given field, stating that the number of authors making n contributions is about 1/n^2 of those making one. [Read more](https://en.wikipedia.org/wiki/Lotka%27s_law)
+> The maximum velocity attainable by an object as it falls through a fluid. [Read more](https://en.wikipedia.org/wiki/Terminal_velocity)
 
 
 
