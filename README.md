@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large v_t = \sqrt{\frac{2mg}{\rho A C_D}}
+\large \frac{\partial V}{\partial t} + \frac{1}{2}\sigma^2 S^2 \frac{\partial^2 V}{\partial S^2} + rS\frac{\partial V}{\partial S} - rV = 0
 $$
 
-Isaac Newton - **Terminal Velocity** (1687)
+Fischer Black & Myron Scholes - **Black-Scholes Equation** (1973)
 
 > [!NOTE]
-> The maximum velocity attainable by an object as it falls through a fluid. [Read more](https://en.wikipedia.org/wiki/Terminal_velocity)
+> A partial differential equation governing the price evolution of options, foundational in modern financial theory. [Read more](https://en.wikipedia.org/wiki/Black%E2%80%93Scholes_model)
 
 
 
