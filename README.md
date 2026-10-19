@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large I \propto (1 + z)^{-4}
+\large \int_{-\infty}^\infty f(x) \delta(x-a) dx = f(a)
 $$
 
-Richard Tolman - **Tolman Surface Brightness Test** (1930)
+Paul Dirac - **Dirac Delta Function** (1927)
 
 > [!NOTE]
-> A test for the expansion of the universe, predicting how the surface brightness of identical objects decreases with redshift. [Read more](https://en.wikipedia.org/wiki/Tolman_surface_brightness_test)
+> A generalized function or distribution introduced to model the density of an idealized point mass or point charge. [Read more](https://en.wikipedia.org/wiki/Dirac_delta_function)
 
 
 
