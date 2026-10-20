@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large \int_{-\infty}^\infty f(x) \delta(x-a) dx = f(a)
+\large \mathbf{F}_{rad} = \frac{\mu_0 q^2}{6\pi c} \mathbf{\dot{a}}
 $$
 
-Paul Dirac - **Dirac Delta Function** (1927)
+Max Abraham & Hendrik Lorentz - **Abraham-Lorentz Force** (1903)
 
 > [!NOTE]
-> A generalized function or distribution introduced to model the density of an idealized point mass or point charge. [Read more](https://en.wikipedia.org/wiki/Dirac_delta_function)
+> The recoil force on an accelerating charged particle caused by the particle emitting electromagnetic radiation. [Read more](https://en.wikipedia.org/wiki/Abraham%E2%80%93Lorentz_force)
 
 
 
