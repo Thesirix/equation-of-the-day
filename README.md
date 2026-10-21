@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large \mathbf{F}_{rad} = \frac{\mu_0 q^2}{6\pi c} \mathbf{\dot{a}}
+\large x^2 \frac{d^2y}{dx^2} + x \frac{dy}{dx} + (x^2 - \alpha^2)y = 0
 $$
 
-Max Abraham & Hendrik Lorentz - **Abraham-Lorentz Force** (1903)
+Friedrich Bessel - **Bessel's Differential Equation** (1824)
 
 > [!NOTE]
-> The recoil force on an accelerating charged particle caused by the particle emitting electromagnetic radiation. [Read more](https://en.wikipedia.org/wiki/Abraham%E2%80%93Lorentz_force)
+> A second-order ordinary differential equation whose solutions are Bessel functions, crucial in wave propagation and cylindrical coordinate systems. [Read more](https://en.wikipedia.org/wiki/Bessel_function)
 
 
 
