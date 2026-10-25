@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large R(t) = \sqrt{R_0^2 + \frac{2 D S (P_g - P_l) t}{\rho_g}}
+\large F(x) = e^{-e^{-(x-\mu)/\beta}}
 $$
 
-Gérard Liger-Belair - **Bubble Lifetime in Beer** (2002)
+Emil Julius Gumbel - **Gumbel Distribution (CDF)** (1935)
 
 > [!NOTE]
-> Calculates the growth of bubbles in carbonated beverages like champagne or beer as they rise to the surface. [Read more](https://en.wikipedia.org/wiki/Carbonation)
+> Used in extreme value theory to model the distribution of the maximum (or minimum) of a number of samples. Used to predict 100-year floods or extreme earthquakes. [Read more](https://en.wikipedia.org/wiki/Gumbel_distribution)
 
 
 
