@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large F(x) = e^{-e^{-(x-\mu)/\beta}}
+\large E_F = \frac{\hbar^2}{2m} \left( 3\pi^2 n \right)^{2/3}
 $$
 
-Emil Julius Gumbel - **Gumbel Distribution (CDF)** (1935)
+Enrico Fermi - **Fermi Energy of a Fermi Gas** (1926)
 
 > [!NOTE]
-> Used in extreme value theory to model the distribution of the maximum (or minimum) of a number of samples. Used to predict 100-year floods or extreme earthquakes. [Read more](https://en.wikipedia.org/wiki/Gumbel_distribution)
+> The maximum energy occupied by an electron at absolute zero temperature in an ideal Fermi gas. [Read more](https://en.wikipedia.org/wiki/Fermi_energy)
 
 
 
