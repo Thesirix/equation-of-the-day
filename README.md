@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large E_F = \frac{\hbar^2}{2m} \left( 3\pi^2 n \right)^{2/3}
+\large \frac{D \boldsymbol{\omega}}{Dt} = (\boldsymbol{\omega} \cdot \nabla) \mathbf{u}
 $$
 
-Enrico Fermi - **Fermi Energy of a Fermi Gas** (1926)
+Hermann von Helmholtz - **Vorticity Equation (Inviscid Barotropic Flow)** (1858)
 
 > [!NOTE]
-> The maximum energy occupied by an electron at absolute zero temperature in an ideal Fermi gas. [Read more](https://en.wikipedia.org/wiki/Fermi_energy)
+> Describes the evolution of the vorticity of a fluid particle as it moves. [Read more](https://en.wikipedia.org/wiki/Vorticity_equation)
 
 
 
