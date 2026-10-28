@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large \frac{D \boldsymbol{\omega}}{Dt} = (\boldsymbol{\omega} \cdot \nabla) \mathbf{u}
+\large (\cos x + i \sin x)^n = \cos(nx) + i \sin(nx)
 $$
 
-Hermann von Helmholtz - **Vorticity Equation (Inviscid Barotropic Flow)** (1858)
+Abraham de Moivre - **De Moivre's Formula** (1707)
 
 > [!NOTE]
-> Describes the evolution of the vorticity of a fluid particle as it moves. [Read more](https://en.wikipedia.org/wiki/Vorticity_equation)
+> Connects complex numbers and trigonometry. [Read more](https://en.wikipedia.org/wiki/De_Moivre%27s_formula)
 
 
 
