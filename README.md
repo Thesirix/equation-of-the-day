@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large (\cos x + i \sin x)^n = \cos(nx) + i \sin(nx)
+\large S_{\text{latency}}(s) = \frac{1}{(1-p) + \frac{p}{s}}
 $$
 
-Abraham de Moivre - **De Moivre's Formula** (1707)
+Gene Amdahl - **Amdahl's Law** (1967)
 
 > [!NOTE]
-> Connects complex numbers and trigonometry. [Read more](https://en.wikipedia.org/wiki/De_Moivre%27s_formula)
+> Used in computer science to find the maximum expected improvement to an overall system when only part of the system is improved. [Read more](https://en.wikipedia.org/wiki/Amdahl%27s_law)
 
 
 
