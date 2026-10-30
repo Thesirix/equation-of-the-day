@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large S_{\text{latency}}(s) = \frac{1}{(1-p) + \frac{p}{s}}
+\large (\Box + m^2)\psi = 0
 $$
 
-Gene Amdahl - **Amdahl's Law** (1967)
+Oskar Klein & Walter Gordon - **Klein-Gordon Equation** (1926)
 
 > [!NOTE]
-> Used in computer science to find the maximum expected improvement to an overall system when only part of the system is improved. [Read more](https://en.wikipedia.org/wiki/Amdahl%27s_law)
+> A relativistic version of the Schrödinger equation for spinless particles. [Read more](https://en.wikipedia.org/wiki/Klein%E2%80%93Gordon_equation)
 
 
 
