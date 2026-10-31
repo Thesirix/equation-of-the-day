@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large (\Box + m^2)\psi = 0
+\large f''' + f f'' + \beta (1 - (f')^2) = 0
 $$
 
-Oskar Klein & Walter Gordon - **Klein-Gordon Equation** (1926)
+V. M. Falkner & Sylvia W. Skan - **Falkner-Skan Equation** (1931)
 
 > [!NOTE]
-> A relativistic version of the Schrödinger equation for spinless particles. [Read more](https://en.wikipedia.org/wiki/Klein%E2%80%93Gordon_equation)
+> An extension of the Blasius equation used to model the boundary layer flow over a wedge. [Read more](https://en.wikipedia.org/wiki/Falkner%E2%80%93Skan_boundary_layer)
 
 
 
