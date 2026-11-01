@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large f''' + f f'' + \beta (1 - (f')^2) = 0
+\large c = \sqrt{g h}
 $$
 
-V. M. Falkner & Sylvia W. Skan - **Falkner-Skan Equation** (1931)
+Joseph-Louis Lagrange - **Shallow Water Wave Speed** (1781)
 
 > [!NOTE]
-> An extension of the Blasius equation used to model the boundary layer flow over a wedge. [Read more](https://en.wikipedia.org/wiki/Falkner%E2%80%93Skan_boundary_layer)
+> The phase speed of a surface gravity wave propagating in water much shallower than its wavelength. [Read more](https://en.wikipedia.org/wiki/Shallow_water_equations)
 
 
 
