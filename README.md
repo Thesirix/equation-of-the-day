@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large B(\nu, T) = \frac{2 h \nu^3}{c^2} \frac{1}{e^{\frac{h\nu}{k_B T}} - 1}
+\large J(A,B) = \frac{|A \cap B|}{|A \cup B|}
 $$
 
-Max Planck - **Planck's Law** (1900)
+Paul Jaccard - **Jaccard Index** (1901)
 
 > [!NOTE]
-> Describes the spectral density of electromagnetic radiation emitted by a black body in thermal equilibrium at a given temperature T. [Read more](https://en.wikipedia.org/wiki/Planck%27s_law)
+> A statistic used for gauging the similarity and diversity of sample sets. [Read more](https://en.wikipedia.org/wiki/Jaccard_index)
 
 
 
