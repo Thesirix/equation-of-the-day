@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large J(A,B) = \frac{|A \cap B|}{|A \cup B|}
+\large H(X) = -\sum_{i=1}^{n} P(x_i) \log_2 P(x_i)
 $$
 
-Paul Jaccard - **Jaccard Index** (1901)
+Claude Shannon - **Shannon Entropy** (1948)
 
 > [!NOTE]
-> A statistic used for gauging the similarity and diversity of sample sets. [Read more](https://en.wikipedia.org/wiki/Jaccard_index)
+> Calculates the minimum average amount of data required to encode a string of symbols, founding the field of information theory. [Read more](https://en.wikipedia.org/wiki/Entropy_(information_theory))
 
 
 
