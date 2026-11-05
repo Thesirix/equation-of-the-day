@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large H(X) = -\sum_{i=1}^{n} P(x_i) \log_2 P(x_i)
+\large PR(A) = \frac{1-d}{N} + d \sum_{i=1}^n \frac{PR(T_i)}{C(T_i)}
 $$
 
-Claude Shannon - **Shannon Entropy** (1948)
+Larry Page & Sergey Brin - **PageRank Algorithm** (1998)
 
 > [!NOTE]
-> Calculates the minimum average amount of data required to encode a string of symbols, founding the field of information theory. [Read more](https://en.wikipedia.org/wiki/Entropy_(information_theory))
+> The original algorithm used by Google Search to rank web pages in their search engine results. [Read more](https://en.wikipedia.org/wiki/PageRank)
 
 
 
