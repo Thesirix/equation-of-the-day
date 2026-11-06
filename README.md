@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large PR(A) = \frac{1-d}{N} + d \sum_{i=1}^n \frac{PR(T_i)}{C(T_i)}
+\large p^2 + 2pq + q^2 = 1
 $$
 
-Larry Page & Sergey Brin - **PageRank Algorithm** (1998)
+G. H. Hardy & Wilhelm Weinberg - **Hardy-Weinberg Principle** (1908)
 
 > [!NOTE]
-> The original algorithm used by Google Search to rank web pages in their search engine results. [Read more](https://en.wikipedia.org/wiki/PageRank)
+> States that allele and genotype frequencies in a population will remain constant from generation to generation in the absence of other evolutionary influences. [Read more](https://en.wikipedia.org/wiki/Hardy%E2%80%93Weinberg_principle)
 
 
 
