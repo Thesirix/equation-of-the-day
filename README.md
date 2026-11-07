@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large p^2 + 2pq + q^2 = 1
+\large R(t) = S(\gamma) \left( \frac{E t^2}{\rho} \right)^{1/5}
 $$
 
-G. H. Hardy & Wilhelm Weinberg - **Hardy-Weinberg Principle** (1908)
+G. I. Taylor & Leonid Sedov - **Taylor-Sedov Blast Wave** (1950)
 
 > [!NOTE]
-> States that allele and genotype frequencies in a population will remain constant from generation to generation in the absence of other evolutionary influences. [Read more](https://en.wikipedia.org/wiki/Hardy%E2%80%93Weinberg_principle)
+> Describes the radius of a blast wave from an intense explosion (like an atomic bomb) expanding into a uniform gas. [Read more](https://en.wikipedia.org/wiki/Sedov%E2%80%93Taylor_solution)
 
 
 
