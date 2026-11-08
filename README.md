@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large R(t) = S(\gamma) \left( \frac{E t^2}{\rho} \right)^{1/5}
+\large y_i^{(k)} = \sum_{j : i \to j} x_j^{(k)}
 $$
 
-G. I. Taylor & Leonid Sedov - **Taylor-Sedov Blast Wave** (1950)
+Jon Kleinberg - **HITS Hub Score** (1999)
 
 > [!NOTE]
-> Describes the radius of a blast wave from an intense explosion (like an atomic bomb) expanding into a uniform gas. [Read more](https://en.wikipedia.org/wiki/Sedov%E2%80%93Taylor_solution)
+> Identifies pages that link to many high-quality authorities. [Read more](https://en.wikipedia.org/wiki/HITS_algorithm)
 
 
 
