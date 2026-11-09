@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large y_i^{(k)} = \sum_{j : i \to j} x_j^{(k)}
+\large \text{tfidf}(t, d, D) = \text{tf}(t, d) \times \log\left(\frac{N}{|\{d \in D : t \in d\}|}\right)
 $$
 
-Jon Kleinberg - **HITS Hub Score** (1999)
+Karen Spärck Jones - **TF-IDF (Term Frequency-Inverse Document Frequency)** (1972)
 
 > [!NOTE]
-> Identifies pages that link to many high-quality authorities. [Read more](https://en.wikipedia.org/wiki/HITS_algorithm)
+> A numerical statistic that is intended to reflect how important a word is to a document in a collection or corpus. [Read more](https://en.wikipedia.org/wiki/Tf%E2%80%93idf)
 
 
 
