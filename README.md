@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large \text{tfidf}(t, d, D) = \text{tf}(t, d) \times \log\left(\frac{N}{|\{d \in D : t \in d\}|}\right)
+\large t = \int_{x_1}^{x_2} \sqrt{\frac{1 + (y')^2}{2gy}} dx
 $$
 
-Karen Spärck Jones - **TF-IDF (Term Frequency-Inverse Document Frequency)** (1972)
+Johann Bernoulli - **Brachistochrone Curve Time** (1696)
 
 > [!NOTE]
-> A numerical statistic that is intended to reflect how important a word is to a document in a collection or corpus. [Read more](https://en.wikipedia.org/wiki/Tf%E2%80%93idf)
+> The integral representing the time taken for a bead to slide down a frictionless wire between two points; solving it yields a cycloid. [Read more](https://en.wikipedia.org/wiki/Brachistochrone_curve)
 
 
 
