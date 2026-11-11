@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large t = \int_{x_1}^{x_2} \sqrt{\frac{1 + (y')^2}{2gy}} dx
+\large A \approx 5.288 V^{2/3}
 $$
 
-Johann Bernoulli - **Brachistochrone Curve Time** (1696)
+Denis Weaire & Robert Phelan - **The Weaire-Phelan Structure (Foam)** (1993)
 
 > [!NOTE]
-> The integral representing the time taken for a bead to slide down a frictionless wire between two points; solving it yields a cycloid. [Read more](https://en.wikipedia.org/wiki/Brachistochrone_curve)
+> The most efficient way to partition space into cells of equal volume with the least surface area (the geometry of bubbles). [Read more](https://en.wikipedia.org/wiki/Weaire%E2%80%93Phelan_structure)
 
 
 
