@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large A \approx 5.288 V^{2/3}
+\large \psi_{\mathbf{k}}(\mathbf{r}) = e^{i\mathbf{k}\cdot\mathbf{r}} u_{\mathbf{k}}(\mathbf{r})
 $$
 
-Denis Weaire & Robert Phelan - **The Weaire-Phelan Structure (Foam)** (1993)
+Felix Bloch - **Bloch's Theorem** (1929)
 
 > [!NOTE]
-> The most efficient way to partition space into cells of equal volume with the least surface area (the geometry of bubbles). [Read more](https://en.wikipedia.org/wiki/Weaire%E2%80%93Phelan_structure)
+> Describes the energy eigenstates for an electron in a crystal lattice. [Read more](https://en.wikipedia.org/wiki/Bloch%27s_theorem)
 
 
 
