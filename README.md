@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large \frac{\partial u}{\partial t} + u \frac{\partial u}{\partial x} = \nu \frac{\partial^2 u}{\partial x^2}
+\large i\hbar \frac{\partial \Psi}{\partial t} = \left(-\frac{\hbar^2}{2m}\nabla^2 + V_{ext} + g|\Psi|^2\right)\Psi
 $$
 
-Johannes Martinus Burgers - **Burgers' Equation** (1915)
+Eugene Gross & Lev Pitaevskii - **Gross-Pitaevskii Equation** (1961)
 
 > [!NOTE]
-> A fundamental partial differential equation occurring in various areas of applied mathematics, such as fluid mechanics and nonlinear acoustics. [Read more](https://en.wikipedia.org/wiki/Burgers%27_equation)
+> Describes the ground state of a quantum system of identical bosons using the Hartree-Fock approximation and the pseudopotential interaction model. [Read more](https://en.wikipedia.org/wiki/Gross%E2%80%93Pitaevskii_equation)
 
 
 
