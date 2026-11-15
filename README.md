@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large i\hbar \frac{\partial \Psi}{\partial t} = \left(-\frac{\hbar^2}{2m}\nabla^2 + V_{ext} + g|\Psi|^2\right)\Psi
+\large d = \frac{\lambda}{2 n \sin \theta}
 $$
 
-Eugene Gross & Lev Pitaevskii - **Gross-Pitaevskii Equation** (1961)
+Ernst Abbe - **Abbe Resolution Limit** (1873)
 
 > [!NOTE]
-> Describes the ground state of a quantum system of identical bosons using the Hartree-Fock approximation and the pseudopotential interaction model. [Read more](https://en.wikipedia.org/wiki/Gross%E2%80%93Pitaevskii_equation)
+> The formula defining the maximum theoretical resolution of a light microscope due to the diffraction of light. [Read more](https://en.wikipedia.org/wiki/Diffraction-limited_system#Abbe_resolution_limit)
 
 
 
