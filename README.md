@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large d = \frac{\lambda}{2 n \sin \theta}
+\large \alpha \psi + \beta |\psi|^2 \psi + \frac{1}{2m}(-i\hbar\nabla - 2e\mathbf{A})^2 \psi = 0
 $$
 
-Ernst Abbe - **Abbe Resolution Limit** (1873)
+Vitaly Ginzburg & Lev Landau - **Ginzburg-Landau Equation** (1950)
 
 > [!NOTE]
-> The formula defining the maximum theoretical resolution of a light microscope due to the diffraction of light. [Read more](https://en.wikipedia.org/wiki/Diffraction-limited_system#Abbe_resolution_limit)
+> A macroscopic mathematical theory used to model superconductivity based on a complex order parameter. [Read more](https://en.wikipedia.org/wiki/Ginzburg%E2%80%93Landau_theory)
 
 
 
