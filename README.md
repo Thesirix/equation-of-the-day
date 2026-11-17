@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large \alpha \psi + \beta |\psi|^2 \psi + \frac{1}{2m}(-i\hbar\nabla - 2e\mathbf{A})^2 \psi = 0
+\large p^2 + 2pq + q^2 = 1
 $$
 
-Vitaly Ginzburg & Lev Landau - **Ginzburg-Landau Equation** (1950)
+G. H. Hardy & Wilhelm Weinberg - **Hardy-Weinberg Principle** (1908)
 
 > [!NOTE]
-> A macroscopic mathematical theory used to model superconductivity based on a complex order parameter. [Read more](https://en.wikipedia.org/wiki/Ginzburg%E2%80%93Landau_theory)
+> States that allele and genotype frequencies in a population will remain constant from generation to generation in the absence of other evolutionary influences. [Read more](https://en.wikipedia.org/wiki/Hardy%E2%80%93Weinberg_principle)
 
 
 
