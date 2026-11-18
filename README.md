@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large p^2 + 2pq + q^2 = 1
+\large V_{bad} > V_{good} \implies \text{hoarding}
 $$
 
-G. H. Hardy & Wilhelm Weinberg - **Hardy-Weinberg Principle** (1908)
+Sir Thomas Gresham - **Gresham's Law** (1560)
 
 > [!NOTE]
-> States that allele and genotype frequencies in a population will remain constant from generation to generation in the absence of other evolutionary influences. [Read more](https://en.wikipedia.org/wiki/Hardy%E2%80%93Weinberg_principle)
+> The principle that 'bad money drives out good' in a system where two types of currency are in circulation. [Read more](https://en.wikipedia.org/wiki/Gresham%27s_law)
 
 
 
