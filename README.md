@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large V_{bad} > V_{good} \implies \text{hoarding}
+\large \mathbf{F} = q(\mathbf{E} + \mathbf{v} \times \mathbf{B})
 $$
 
-Sir Thomas Gresham - **Gresham's Law** (1560)
+Hendrik Lorentz - **Lorentz Force Law** (1895)
 
 > [!NOTE]
-> The principle that 'bad money drives out good' in a system where two types of currency are in circulation. [Read more](https://en.wikipedia.org/wiki/Gresham%27s_law)
+> The combination of electric and magnetic force on a point charge due to electromagnetic fields. [Read more](https://en.wikipedia.org/wiki/Lorentz_force)
 
 
 
