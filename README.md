@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large \mathbf{F} = q(\mathbf{E} + \mathbf{v} \times \mathbf{B})
+\large \frac{\partial \theta}{\partial t} = \nabla \cdot (K(\theta) \nabla H)
 $$
 
-Hendrik Lorentz - **Lorentz Force Law** (1895)
+Lorenzo A. Richards - **Richards Equation** (1931)
 
 > [!NOTE]
-> The combination of electric and magnetic force on a point charge due to electromagnetic fields. [Read more](https://en.wikipedia.org/wiki/Lorentz_force)
+> The fundamental governing equation of hydrology representing the movement of water in unsaturated soils. [Read more](https://en.wikipedia.org/wiki/Richards_equation)
 
 
 
