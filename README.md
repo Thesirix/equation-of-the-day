@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large \frac{\partial \theta}{\partial t} = \nabla \cdot (K(\theta) \nabla H)
+\large \mathcal{E} = \frac{1}{2} \int_V |\boldsymbol{\omega}|^2 dV
 $$
 
-Lorenzo A. Richards - **Richards Equation** (1931)
+Fluid Dynamics Standard - **Enstrophy Definition** (1940)
 
 > [!NOTE]
-> The fundamental governing equation of hydrology representing the movement of water in unsaturated soils. [Read more](https://en.wikipedia.org/wiki/Richards_equation)
+> A quantity integral to the study of turbulent flows, representing the dissipation of kinetic energy. [Read more](https://en.wikipedia.org/wiki/Enstrophy)
 
 
 
