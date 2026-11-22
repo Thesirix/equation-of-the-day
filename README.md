@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large \mathcal{E} = \frac{1}{2} \int_V |\boldsymbol{\omega}|^2 dV
+\large \frac{d\sigma}{d\Omega} = \left( \frac{z Z e^2}{4 \pi \varepsilon_0 (2m v^2)} \right)^2 \frac{1}{\sin^4(\theta/2)}
 $$
 
-Fluid Dynamics Standard - **Enstrophy Definition** (1940)
+Ernest Rutherford - **Rutherford Scattering Cross Section** (1911)
 
 > [!NOTE]
-> A quantity integral to the study of turbulent flows, representing the dissipation of kinetic energy. [Read more](https://en.wikipedia.org/wiki/Enstrophy)
+> Describes the elastic scattering of charged particles by the Coulomb interaction, proving the existence of the atomic nucleus. [Read more](https://en.wikipedia.org/wiki/Rutherford_scattering)
 
 
 
