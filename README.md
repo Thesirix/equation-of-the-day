@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large \frac{d\sigma}{d\Omega} = \left( \frac{z Z e^2}{4 \pi \varepsilon_0 (2m v^2)} \right)^2 \frac{1}{\sin^4(\theta/2)}
+\large \frac{dP}{dt} = rP \left( 1 - \frac{P}{K} \right)
 $$
 
-Ernest Rutherford - **Rutherford Scattering Cross Section** (1911)
+Pierre François Verhulst - **Logistic Growth Equation** (1838)
 
 > [!NOTE]
-> Describes the elastic scattering of charged particles by the Coulomb interaction, proving the existence of the atomic nucleus. [Read more](https://en.wikipedia.org/wiki/Rutherford_scattering)
+> Models population growth where the rate of reproduction is proportional to both the existing population and the amount of available resources. [Read more](https://en.wikipedia.org/wiki/Logistic_function)
 
 
 
