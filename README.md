@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large \frac{dP}{dt} = rP \left( 1 - \frac{P}{K} \right)
+\large \frac{\partial p}{\partial t} = -\frac{\partial}{\partial x}(\mu p) + \frac{\partial^2}{\partial x^2}(D p)
 $$
 
-Pierre François Verhulst - **Logistic Growth Equation** (1838)
+Adriaan Fokker & Max Planck - **Fokker-Planck Equation** (1914)
 
 > [!NOTE]
-> Models population growth where the rate of reproduction is proportional to both the existing population and the amount of available resources. [Read more](https://en.wikipedia.org/wiki/Logistic_function)
+> Describes the time evolution of the probability density function of the velocity of a particle under the influence of drag forces and random forces. [Read more](https://en.wikipedia.org/wiki/Fokker%E2%80%93Planck_equation)
 
 
 
