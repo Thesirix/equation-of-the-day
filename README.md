@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large \frac{\partial p}{\partial t} = -\frac{\partial}{\partial x}(\mu p) + \frac{\partial^2}{\partial x^2}(D p)
+\large F_n = \frac{\varphi^n - \psi^n}{\sqrt{5}}
 $$
 
-Adriaan Fokker & Max Planck - **Fokker-Planck Equation** (1914)
+Jacques Philippe Marie Binet - **Binet's Formula** (1843)
 
 > [!NOTE]
-> Describes the time evolution of the probability density function of the velocity of a particle under the influence of drag forces and random forces. [Read more](https://en.wikipedia.org/wiki/Fokker%E2%80%93Planck_equation)
+> Expresses the n-th Fibonacci number explicitly as a function of the golden ratio. [Read more](https://en.wikipedia.org/wiki/Fibonacci_sequence#Binet's_formula)
 
 
 
