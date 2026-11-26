@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large F_n = \frac{\varphi^n - \psi^n}{\sqrt{5}}
+\large L = \mu_0 \frac{N^2 A}{l}
 $$
 
-Jacques Philippe Marie Binet - **Binet's Formula** (1843)
+André-Marie Ampère - **Inductance of a Solenoid** (1820)
 
 > [!NOTE]
-> Expresses the n-th Fibonacci number explicitly as a function of the golden ratio. [Read more](https://en.wikipedia.org/wiki/Fibonacci_sequence#Binet's_formula)
+> Determines the inductance of a tightly wound coil of wire (solenoid) based on its physical properties. [Read more](https://en.wikipedia.org/wiki/Inductor)
 
 
 
