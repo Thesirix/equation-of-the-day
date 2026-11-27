@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large L = \mu_0 \frac{N^2 A}{l}
+\large |E(a,b) - E(a,b') + E(a',b) + E(a',b')| \le 2
 $$
 
-André-Marie Ampère - **Inductance of a Solenoid** (1820)
+John Stewart Bell - **Bell's Inequality (CHSH)** (1964)
 
 > [!NOTE]
-> Determines the inductance of a tightly wound coil of wire (solenoid) based on its physical properties. [Read more](https://en.wikipedia.org/wiki/Inductor)
+> Proves that quantum mechanics is incompatible with local hidden-variable theories. [Read more](https://en.wikipedia.org/wiki/Bell%27s_theorem)
 
 
 
