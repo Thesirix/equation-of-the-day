@@ -15,13 +15,13 @@ Name, author, year, and purpose. Automatically. No manual work.
 ## Equation of the Day
 
 $$
-\large |E(a,b) - E(a,b') + E(a',b) + E(a',b')| \le 2
+\large F_n = \frac{\varphi^n - \psi^n}{\sqrt{5}}
 $$
 
-John Stewart Bell - **Bell's Inequality (CHSH)** (1964)
+Jacques Philippe Marie Binet - **Binet's Formula** (1843)
 
 > [!NOTE]
-> Proves that quantum mechanics is incompatible with local hidden-variable theories. [Read more](https://en.wikipedia.org/wiki/Bell%27s_theorem)
+> Expresses the n-th Fibonacci number explicitly as a function of the golden ratio. [Read more](https://en.wikipedia.org/wiki/Fibonacci_sequence#Binet's_formula)
 
 
 
